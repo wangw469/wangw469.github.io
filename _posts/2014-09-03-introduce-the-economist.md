@@ -6,7 +6,7 @@ title: 推荐经济学人
 {{ page.title }}
 ================
 
-<p class="meta">30 September 2014 - Kun Shan</p>
+<p class="meta">03 September 2014 - Shange Hai</p>
 
 Ladies and乡亲们，请允许我为大家推荐一份杂志：<a href="http://www.economist.com/">《经济学人》</a> 
 
