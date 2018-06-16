@@ -39,5 +39,6 @@ title: 还是要保持好奇啊混蛋们
 相关链接:
 * [Bill gates's Beach Reading(2015)](https://www.gatesnotes.com/About-Bill-Gates/Summer-Books-2015)
 * [人类简史](https://book.douban.com/subject/25985021/)
+* [那些古怪又让人忧心的问题what if?](https://www.amazon.cn/dp/B00W4R6JV6/ref=sr_1_1?ie=UTF8&qid=1529159791&sr=8-1&keywords=what+if)
 * [浅薄（超链接影响阅读的理论来源）](https://book.douban.com/subject/5379664/)
 * [Is Google Making Us Stupid?](https://www.theatlantic.com/magazine/archive/2008/07/is-google-making-us-stupid/306868/)
