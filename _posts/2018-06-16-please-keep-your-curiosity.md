@@ -32,7 +32,12 @@ title: 还是要保持好奇啊混蛋们
 
 小皮与诸位共勉
 
+<hr/>
+
 前段时间看到说文章中的超链接会迫使大脑切换成决策模式，考虑是不是要点击那个链接，从而影响阅读，所以我打算以后把超链接都放在最后面。
-相关链接
-* [Bill gates's Beach Reading(2015)] (https://www.gatesnotes.com/About-Bill-Gates/Summer-Books-2015)
-* [人类简史] (https://book.douban.com/subject/25985021/)
+
+相关链接:
+* [Bill gates's Beach Reading(2015)](https://www.gatesnotes.com/About-Bill-Gates/Summer-Books-2015)
+* [人类简史](https://book.douban.com/subject/25985021/)
+* [浅薄（超链接影响阅读的理论来源）](https://book.douban.com/subject/5379664/)
+* [Is Google Making Us Stupid?](https://www.theatlantic.com/magazine/archive/2008/07/is-google-making-us-stupid/306868/)
