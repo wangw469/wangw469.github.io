@@ -16,4 +16,4 @@ Source: [Ideas are bulletproof](https://blog.yitianshijie.net/2019/10/12/ideas-a
 
 不鳥萬如一偶尔在文字里延续这个传统，是白话的反动，趣味之余，也让人反思文字上什么味道最中国。
 
-批评指教请阁下移步此处：https://twitter.com/wangw469/status/1271269418668929024
+批评指教请阁下移步[此处](https://twitter.com/wangw469/status/1271269418668929024)。
