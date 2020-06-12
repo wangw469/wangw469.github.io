@@ -8,7 +8,12 @@ title: 如何写出没有bug的代码？
 <p class="meta">11 June 2020 - Soochow</p>
 
 去年的某个时间，我在hacker news上看到了nocode项目：
-> The best way to write secure and reliable applications. Write nothing; deploy nowhere. 
+
+<blockquote class="quoteback" data-title="kelseyhightower/nocode" data-author="@github" cite="https://github.com/kelseyhightower/nocode">
+The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+<footer>@github <cite><a href="https://github.com/kelseyhightower/nocode">https://github.com/kelseyhightower/nocode</a></cite></footer>
+</blockquote>
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
 这看起来行为艺术的做法，再次强化了我的观点：没有写出来的代码没有bug。
 
