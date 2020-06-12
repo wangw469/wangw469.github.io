@@ -26,7 +26,9 @@ Ladies and乡亲们，请允许我为大家推荐一份杂志：<a href="http://
 
 关于春夏之秋发生的事情，他们说出了这样一个观点：
 
-> To avoid a similar fate for China, he went on his famous "southern tour" to drum up support for a fresh round of economic reform. **It was this bold move, in the face of stiff conservative resistance, rather than the crushing of largely peaceful dissent, that laid the groundwork for China’s prosperity today.**
+> To avoid a similar fate for China, he went on his famous “southern tour” to drum up support for a fresh round of economic reform. **It was this bold move, in the face of stiff conservative resistance, rather than the crushing of largely peaceful dissent, that laid the groundwork for China’s prosperity today.**
+
+Source: [The lessons of history](https://www.economist.com/china/2014/06/03/the-lessons-of-history) by @TheEconomist
 
 请特别注意第二句话。以后再有搅屎棍说，因为这件事情，才有了今天的经济腾飞，我就不会被他搅进去了。
 
