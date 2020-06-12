@@ -15,3 +15,5 @@ Source: [Ideas are bulletproof](https://blog.yitianshijie.net/2019/10/12/ideas-a
 洋人自然是不会讲文言的，但被梁启超写成文言之后，突然有种古今中外皆可互通的感觉，同文馆的名字大概也有这个意思。
 
 不鳥萬如一偶尔在文字里延续这个传统，是白话的反动，趣味之余，也让人反思文字上什么味道最中国。
+
+批评指教请阁下移步此处：https://twitter.com/wangw469/status/1271269418668929024
