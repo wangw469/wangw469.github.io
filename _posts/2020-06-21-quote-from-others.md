@@ -8,7 +8,7 @@ title: 他山之石
 
 > 苹果有大智，在端到端加密上重金投入。政府和警察侵民日甚，而她们选择存留尽可能少的用户数据。
 
-Source: [Ideas are bulletproof](https://blog.yitianshijie.net/2019/10/12/ideas-are-bulletproof/) by @wordpressdotcom
+Source: [Ideas are bulletproof](https://blog.yitianshijie.net/2019/10/12/ideas-are-bulletproof/) by @不鳥萬如一
 
 “侵民日甚”，把英文翻成文言，我第一次接触是在梁启超的《李鸿章传》里，德国总理和李鸿章的对话。
 
