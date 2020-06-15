@@ -9,13 +9,9 @@ title: 从有关运通的一篇新闻看媒体质量
 
 昨天我在Twitter上看到一篇有关人民银行批准运通人民币结算业务的新闻，根据截图的文字找到了新闻：
 
-1. https://www.cnbeta.com/articles/tech/990889.htm
-2. https://www.leiphone.com/news/202006/iVZ0P09uYc1j87OA.html
-3. http://www.gov.cn/xinwen/2020-06/14/content_5519318.htm
+[央行批准！中国年内将发行非银联人民币卡：美国运通单标，支持 16 家银行 + 微信支付宝](https://www.leiphone.com/news/202006/iVZ0P09uYc1j87OA.html) by 雷锋网
 
-> 雷锋网了解到，连通公司负责筹建的银行卡清算网络，将处理美国运通品牌卡在中国大陆地区的线上线下支付交易，也将和国内主流的银行支付机构合作。
-
-Source: [央行批准！中国年内将发行非银联人民币卡：美国运通单标，支持 16 家银行 + 微信支付宝](https://www.leiphone.com/news/202006/iVZ0P09uYc1j87OA.html) by 雷锋网
+https://www.cnbeta.com/articles/tech/990889.htm
 
 > 连通公司应在取得银行卡清算业务许可证之日起6个月内，正式开办银行卡清算业务。
 
