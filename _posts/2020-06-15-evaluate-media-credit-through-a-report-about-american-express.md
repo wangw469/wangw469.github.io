@@ -23,4 +23,4 @@ Source: [美国运通合资公司获批银行卡清算许可 预计年内开业]
 
 > “We are pleased to be the first foreign company to receive this license. This approval represents an important step forward in our long-term growth strategy and is an historic moment, not only for American Express but for the continued growth and development of the payments industry in mainland China,” said Stephen J. Squeri, Chairman and Chief Executive Officer of American Express. “We look forward to welcoming millions of new consumers, businesses and merchants in China to American Express, as well as continuing to enhance our support for our global customers when they travel to the region.”
 
-Source: [American Express Receives Clearance to Begin Processing Local Transactions in Mainland China | American Express](https://about.americanexpress.com/press-release/greater-china-mainland-china-taiwan-and-hong-kong/american-express-receives-clearance) by
+Source: [American Express Receives Clearance to Begin Processing Local Transactions in Mainland China](https://about.americanexpress.com/press-release/greater-china-mainland-china-taiwan-and-hong-kong/american-express-receives-clearance) by American Express
