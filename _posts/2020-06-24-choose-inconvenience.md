@@ -24,7 +24,7 @@ title: 流下汗水，远离方便
 1. [梁文道：八分](https://shop.vistopia.com.cn/detail?id=4z4Ew)
 2. 窦文涛
 3. [波米：反派影评](https://mp.weixin.qq.com/s/V6LfeY6Mki8VDyFYyfud2Q)
-4. [李如一：一天世界](https://blog.yitianshijie.net)
+4. [李如一：一天世界](https://yitianshijie.net)
 5. 白信
 6. 丁香医生
 7. 陶杰
