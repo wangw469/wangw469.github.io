@@ -5,7 +5,7 @@ title: 吴地遗风
 
 {{ page.title }}
 ================
-<p class="meta">24 June 2020 - Kunshan</p>
+<p class="meta">2 July 2020 - Kunshan</p>
 
 昆山有座最出名的公园，叫亭林公园。名称是纪念本地晚明大儒顾炎武先生（被尊为亭林先生）。
 
