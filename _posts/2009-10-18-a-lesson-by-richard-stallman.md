@@ -43,3 +43,5 @@ Stallman未作任何介绍，在讲台上脱掉鞋就直接用不紧不慢的语
 # 二、Free is not "免费"， is "自由"
 听到Stallman用中文说出这两个词的时候，会场立刻出现了掌声。
 很显然Stallman最关心的是自由问题，而不是价格，他本身不反对通过自由软件获得经济收入，而且自己也在积极提出各种可能的商业方案。
+
+<p><a href="https://commons.wikimedia.org/wiki/File:Richard_Stallman_at_LibrePlanet_2019.jpg#/media/File:Richard_Stallman_at_LibrePlanet_2019.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Richard_Stallman_at_LibrePlanet_2019.jpg/1200px-Richard_Stallman_at_LibrePlanet_2019.jpg" alt="Richard Stallman at LibrePlanet 2019.jpg"></a><br>By Ruben Rodriguez - <a rel="nofollow" class="external free" href="https://media.libreplanet.org/u/libreplanet/m/richard-stallman-at-libreplanet-2019-2113/">https://media.libreplanet.org/u/libreplanet/m/richard-stallman-at-libreplanet-2019-2113/</a>, <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=79484097">Link</a></p>
