@@ -39,6 +39,8 @@ title: 吴地遗风
 
 [匹夫](https://pedia.cloud.edu.tw/Entry/Detail/?title=匹夫) by 教育百科
 
-看来匹夫的意思是：只有一妇与之相匹之夫。到了一夫一妻的现在，若不是匹夫，不单是与社会伦理不符，还可能干犯律法。
+看来匹夫的意思是：只有一妇与之相匹之夫，泛指没有妻妾的平民（非士大夫阶层）。
+
+到了一夫一妻的现在，若不是匹夫，不单是与社会伦理不符，还可能干犯律法。
 
 <p><a href="https://commons.wikimedia.org/wiki/File:Gu_yanwu.jpg#/media/File:Gu_yanwu.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gu_yanwu.jpg" alt="顾炎武"></a><br>由葉衍蘭輯，黃小泉摹繪， - 《清代學者像傳》第一集，公有领域，<a href="https://commons.wikimedia.org/w/index.php?curid=48029">链接</a></p>
