@@ -37,7 +37,7 @@ title: 吴地遗风
 
 > 〔左傳．桓公十年〕疏：「士大夫以上則有妾媵，庶人惟夫妻相匹，其名既定，雖單亦通。」
 
-https://pedia.cloud.edu.tw/Entry/Detail/?title=匹夫
+[匹夫](https://pedia.cloud.edu.tw/Entry/Detail/?title=匹夫) by 教育百科
 
 看来匹夫的意思是：只有一妇与之相匹之夫。到了一夫一妻的现在，若不是匹夫，不单是与社会伦理不符，还可能干犯律法。
 
