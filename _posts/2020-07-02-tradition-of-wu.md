@@ -26,3 +26,5 @@ title: 吴地遗风
 当然，我也知道，顾先生说的天下里，可不只是吾国吾民，是天下苍生。
 
 吴地既有此一脉，作为刚入籍的匹夫，我是不敢轻易忘记的。
+
+<p><a href="https://commons.wikimedia.org/wiki/File:Gu_yanwu.jpg#/media/File:Gu_yanwu.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gu_yanwu.jpg" alt="顾炎武"></a><br>由葉衍蘭輯，黃小泉摹繪， - 《清代學者像傳》第一集，公有领域，<a href="https://commons.wikimedia.org/w/index.php?curid=48029">链接</a></p>
