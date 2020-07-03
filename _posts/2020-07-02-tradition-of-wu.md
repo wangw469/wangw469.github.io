@@ -46,8 +46,8 @@ title: 吴地遗风
 -----
 再查了下，什么叫亡？
 
-> 有亡國，有亡天下。亡國與亡天下奚辨？曰：易姓改號，謂之亡國；仁義充塞，而至於率獸食人，人將相 食，謂之亡天下。……是故知保天下，然後知保其國。保國者，其君其臣，肉食者謀之；保天下者，匹夫 之賤，與有責焉耳矣。
+> 亡天下。亡國與亡天下奚辨？曰：易姓改號，謂之亡國；仁義充塞，而至於率獸食人，人將相 食，謂之亡天下。……，然後知保其國。保國者，其君其臣，肉食者謀之；保天下者，匹夫 之賤，與有責焉耳矣。
 
-清 顧炎武《日知錄》
+清 顧炎武《日知錄》 [卷十三](https://ctext.org/wiki.pl?if=gb&chapter=449728#p12)
 
 <p><a href="https://commons.wikimedia.org/wiki/File:Gu_yanwu.jpg#/media/File:Gu_yanwu.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gu_yanwu.jpg" alt="顾炎武"></a><br>由葉衍蘭輯，黃小泉摹繪， - 《清代學者像傳》第一集，公有领域，<a href="https://commons.wikimedia.org/w/index.php?curid=48029">链接</a></p>
