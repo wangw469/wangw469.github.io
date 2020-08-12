@@ -1,3 +1,12 @@
+---
+layout: post
+title: WeChat iOS祖传偏方
+---
+
+{{ page.title }}
+================
+<p class="meta">12 Aug 2020 - Kunshan</p>
+
 值此WeChat在地球上部分地区已经或即将不可用之际，分享下一些可能马上就要没用的祖传偏方：
 
 # 完全关闭Photos权限
