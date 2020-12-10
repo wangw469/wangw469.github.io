@@ -20,3 +20,5 @@ title: 网络传输接近光速么？
 * 比较两个数据是否在一个量级上：**133.675811151 ms** vs **458.156 ms**
 
 对于这种可以以光速进行沟通的能力，我们真的做好准备了么？
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Submarine_Optical_Cables.jpg/1024px-Submarine_Optical_Cables.jpg">
