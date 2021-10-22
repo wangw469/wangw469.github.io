@@ -92,3 +92,7 @@ iOS 上把微信所有权限关了照常使用，12306 卑微地只敢跟我要�
 哦，最后忘了，为什么是 64 G？起步价便宜，另外我有 Google Photos 大法，让我继续做谷歌的产品吧。
 
 <a href="https://commons.wikimedia.org/wiki/File:IPhone_SE_(2nd_generation)_white_vector.svg#/media/File:IPhone_SE_(2nd_generation)_white_vector.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/IPhone_SE_%282nd_generation%29_white_vector.svg" alt="The second-generation iPhone SE" width="356" height="720"></a>
+
+一格大王每日报价清单：
+
+https://docs.qq.com/sheet/DWXlrVkhsV3Nna0Ra
