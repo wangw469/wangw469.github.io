@@ -5,7 +5,7 @@ title:  The Unix Programming Environment 读书笔记
 
 {{ page.title }}
 ================
-<p class="meta">Thu 28 Apr 2020 - Soochow </p>
+<p class="meta">Thu 28 Apr 2022 - Soochow </p>
 
 上周找到了这本书 The Unix Programming Environment 。
 
