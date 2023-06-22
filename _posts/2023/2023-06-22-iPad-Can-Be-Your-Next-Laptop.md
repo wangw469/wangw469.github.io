@@ -7,5 +7,5 @@ title:  iPad 可以是你的下一台笔记本
 ================
 <p class="meta">Thu 22 Jun 2023 - Soochow </p>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6WY1wXUNDGbnBIk9Btya7a?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/cn/album/bon-voyage/1442487021?i=1442487022&l=en"></iframe>
 
