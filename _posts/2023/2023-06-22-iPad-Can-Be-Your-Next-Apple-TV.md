@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  iPad 可以是你的下一台笔记本
+title:  iPad 可以是你的下一台 Apple TV
 ---
 
 {{ page.title }}
