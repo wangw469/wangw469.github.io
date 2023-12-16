@@ -7,7 +7,7 @@ title:  iPad 可以是你的下一台 Apple TV
 ================
 <p class="meta">Thu 22 Jun 2023 - Soochow </p>
 
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/cn/album/bon-voyage/1442487021?i=1442487022&l=en"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pkX1qDkfv0M?si=6yklCGadYXB9bx2W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MJz8mtImzdc?si=Zxv_Ls_mS-xdRUnL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
