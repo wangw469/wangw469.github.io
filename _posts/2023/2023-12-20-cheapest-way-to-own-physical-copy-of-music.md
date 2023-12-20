@@ -7,6 +7,8 @@ title:  拥有实体音乐最便宜的方案
 ================
 <p class="meta">20 Dec 2023 - Soochow</p>
 
+受到這篇文章的觸動： [Want to Enjoy Music More? Stop Streaming It.](https://www.nytimes.com/2023/09/19/magazine/music-not-streaming.html)，我開始在 iTunes 裏購買音樂，甚至想要擁有實體的版本。
+
 如果想要拥有实体音乐， cd 应该是目前性价比最高的介质。刻录机一台几十块，刻录光盘一张2块钱，iTunes 买的音乐全部是 drm free ，甚至苹果官方有教程教你怎么刻录。
 
 没人关注的老技术，有时候就是最好最稳定的 lts 技术。
