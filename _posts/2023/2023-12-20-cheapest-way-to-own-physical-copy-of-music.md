@@ -31,5 +31,6 @@ What if 我们回到那个夏天，如果我会读英文，打开了[松下的�
 
 ![Screenshot 2023-12-21 at 05-47-56 Panasonic Consumer Electronics - Portable Audio Home](https://github.com/wangw469/wangw469.github.io/assets/3417025/2a90f5bc-a688-48d4-9c3c-48362add1dff)
 
-![Screenshot 2023-12-21 at 05-49-07 https __web archive org](https://github.com/wangw469/wangw469.github.io/assets/3417025/c3fe9b1e-85d4-490a-86f4-886479c09088)
+![Screenshot 2023-12-21 at 05-49-07 https __web archive org](https://github.com/wangw469/wangw469.github.io/assets/3417025/ef41b268-0d24-4bfc-9078-8f741107634a)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f7PJkddbBCU?si=BLOkAzrv6ONBZUGV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
