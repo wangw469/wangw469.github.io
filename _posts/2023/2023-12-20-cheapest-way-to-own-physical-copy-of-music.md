@@ -13,5 +13,8 @@ title:  拥有实体音乐最便宜的方案
 
 iTunes 刻录出来的，你都不能说它是盗版，虽然没有研究法律条文，我想连苹果官方也不会这么定义。
 
-我经常会为苹果的软件工程师流泪，隐藏这么深的功能，哎 https://support.apple.com/guide/music/create-your-own-cds-and-dvds-mus890140c28/mac
+我经常会为苹果的软件工程师流泪，隐藏这么深的功能，哎
 
+[https://support.apple.com/guide/music/create-your-own-cds-and-dvds-mus890140c28/mac
+](https://support.apple.com/guide/music/create-your-own-cds-and-dvds-mus890140c28/mac
+)
