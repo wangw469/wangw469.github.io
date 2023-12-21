@@ -23,6 +23,14 @@ title:  唱片公司列表
 
 [官網](https://www.umusic.com.tw/index.php)
 
+# republic records
+
+Taylor Swift 所在的廠牌，The Weekend 也是他們的，頂流了。
+
+他們出名的藝人都有自己專屬的網站，但是專輯的文案似乎網站上都沒有，倒是在 iTunes 裏能看到。
+
+[https://www.republicrecords.com/](https://www.republicrecords.com/)
+
 # 福茂唱片
 
 [官網](https://www.lfmusic.com/)
