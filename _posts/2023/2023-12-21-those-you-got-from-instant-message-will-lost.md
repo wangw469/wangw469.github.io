@@ -11,7 +11,9 @@ title:  微信得来终觉浅
 
 前几日看到有人在 X 上问，微信好大，可是有聊天记录，舍不得删，奈之何？
 
-其实方案好简单，就是把微信当成个管道，而不是消息最终存储的地方，看到重要的，就转发邮件，或者发到[文件系统](https://xiaopi.one/2023/12/20/useful-lts-tech-file-system.html)中存储下来，其他的应删尽删。
+其实方案好简单，就是把微信当成个管道，而不是消息最终存储的地方。（ Actually it's not only about Wechat, you should treat all instant message service like this. )
+
+看到重要的，就转发邮件，或者发到[文件系统](https://xiaopi.one/2023/12/20/useful-lts-tech-file-system.html)中存储下来，其他的应删尽删。
 
 微信上还有一个大问题是有关数据所有权，我在朋友圈写了很多东西，大部分都毫无意义，只是虽然粗糙得很，总是要敝帚自珍的，有一天我想要把他们保存下来。
 
