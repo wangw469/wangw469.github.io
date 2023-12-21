@@ -13,7 +13,7 @@ title:  唱片公司列表
 
 # 索尼音乐（台湾）
 
-https://www.sonymusic.com.tw/
+[https://www.sonymusic.com.tw/](https://www.sonymusic.com.tw/)
 
 官网细致，新碟推荐的数据居然 date back to 1991 ，要知道那个时候 web 才刚发明，没理由他们那个时候就有官网。
 
