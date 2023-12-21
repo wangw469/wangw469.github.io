@@ -13,6 +13,12 @@ title:  唱片公司列表
 
 # 索尼音乐（台湾）
 
+* Hikaru Utada
+* 張懸
+* 壞特
+* 王心凌
+* 王力宏
+
 [https://www.sonymusic.com.tw/](https://www.sonymusic.com.tw/)
 
 官网细致，新碟推荐的数据居然 date back to 1991 ，要知道那个时候 web 才刚发明，没理由他们那个时候就有官网。
@@ -20,6 +26,11 @@ title:  唱片公司列表
 看着这些专辑文案，终于温暖的想起了 20 年前买专辑的感受了。有了这些略显浮夸的文选，一张专辑总显得更好听了一些。
 
 # 環球唱片
+
+* 陳奕迅
+* 伍佰
+* 蘇打綠
+* 艾怡良
 
 [官網](https://www.umusic.com.tw/index.php)
 
@@ -32,6 +43,9 @@ Taylor Swift 所在的廠牌，The Weekend 也是他們的，頂流了。
 [https://www.republicrecords.com/](https://www.republicrecords.com/)
 
 # 福茂唱片
+
+* 范瑋琪
+* 郭靜
 
 [官網](https://www.lfmusic.com/)
 
