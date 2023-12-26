@@ -16,7 +16,7 @@ title:  无用且低效：属于我们的时代美学
 * 我们喜欢
 * 毫无用处
 
-They are useless, but they are not meaningless, actually they are the meaning of life.
+They are useless, but not meaningless, actually they are the meaning of life.
 
 > 无用之用 by 庄子
 
