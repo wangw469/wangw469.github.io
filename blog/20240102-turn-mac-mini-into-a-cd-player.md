@@ -2,7 +2,7 @@
 
 ## Why CD?
 
-I love music, after reading this article from Nytimes, I just realize that it's time to for me to have
+I love music, after reading [this article](https://www.nytimes.com/2023/09/19/magazine/music-not-streaming.html) from NYtimes, I just realize that it's time to for me to have
 a physical collection of music.
 
 After some search and thought, I think CD is the perfect media to do it:
@@ -32,10 +32,43 @@ I have a external CD burner connect with the mac mini, to make it a cd player, t
 
 Seems like it's a once built-in feature for Music app, but now for some reason it's gone, the feature still has a support page:
 
-https://support.apple.com/lv-lv/guide/music/mus2935/1.4/mac/14.0#mus56cc61e
+[https://support.apple.com/lv-lv/guide/music/mus2935/1.4/mac/14.0#mus56cc61e
+](https://support.apple.com/lv-lv/guide/music/mus2935/1.4/mac/14.0#mus56cc61e
+)
 
-You can now implement this feature with this settings and 
+You can now implement this feature with:
 
-https://support.apple.com/lv-lv/guide/mac-help/mchlp1354/mac
+* macOS: [handle CDs settings](https://support.apple.com/lv-lv/guide/mac-help/mchlp1354/mac)
+* [Automator App](https://github.com/wangw469/wangw469.github.io/tree/master/blog/cd-player/auto_play_using_mpv.app/Contents)
+* mpv
+  
+<img width="497" alt="Screenshot 2024-01-02 at 22 07 42" src="https://github.com/wangw469/wangw469.github.io/assets/3417025/49298049-8968-4735-a03d-79a7a836efbe">
 
-https://famichiki.jp/@xiaopi/111668021062749011
+The basic ideal is to config macOS to launch a Automator App when a audio cd inserted which launch mpv to play CD.
+
+### control playback by keyboard
+
+I have a HHKB keyboard which don't come with any media playback key, so I'll need to create some global keybinds.
+
+First I tried build-in solution like: Shortcuts, looks like it's not very stable and the shortcuts not work everytime.
+
+Then I find [karabiner-elements](https://karabiner-elements.pqrs.org/) which works very well and even have built-in config to map function keys as media playback keys:
+
+* f7: rewind
+* f8: play/pause
+* f9: fast foward
+* f10: mute
+* f11: volume down
+* f12: volume up
+
+Only config I need is to [make eject work](https://github.com/wangw469/wangw469.github.io/blob/master/blog/cd-player/eject-config.json).
+
+The trick part here is to first stop mpv before call diskutil to eject CD.
+
+You can find all the scripts here:
+
+[https://github.com/wangw469/wangw469.github.io/tree/master/blog/cd-player](https://github.com/wangw469/wangw469.github.io/tree/master/blog/cd-player)
+
+[https://famichiki.jp/@xiaopi/111668021062749011
+](https://famichiki.jp/@xiaopi/111668021062749011
+)
