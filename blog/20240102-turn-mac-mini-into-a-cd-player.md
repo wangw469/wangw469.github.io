@@ -1,5 +1,11 @@
 # Turn mac mini into a cd player
 
+<style>
+body { max-width: 800px; margin: 40px; }
+</style>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
 ## Why CD?
 
 I love music, after reading [this article](https://www.nytimes.com/2023/09/19/magazine/music-not-streaming.html) from NYtimes, I just realize that it's time for me to start a physical music collection.
