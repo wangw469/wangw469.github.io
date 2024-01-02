@@ -59,6 +59,7 @@ First, I tried the built-in solution like: Shortcuts, looks like it's not very s
 
 Then I find [karabiner-elements](https://karabiner-elements.pqrs.org/) which works very well and even have built-in config to map function keys as media playback keys:
 
+* f6: eject cd
 * f7: rewind
 * f8: play/pause
 * f9: fast foward
