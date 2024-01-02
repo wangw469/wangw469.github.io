@@ -1,5 +1,6 @@
-# Turn mac mini into a cd player
-
+---
+title: "Turn mac mini into a cd player"
+---
 <style>
 body { max-width: 800px; margin: 40px; }
 </style>
