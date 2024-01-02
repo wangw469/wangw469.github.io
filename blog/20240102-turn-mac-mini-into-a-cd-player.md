@@ -1,5 +1,6 @@
 ---
 title: "Turn mac mini into a cd player"
+date: 2024-01-02
 ---
 <style>
 body { max-width: 800px; margin: 40px; }
