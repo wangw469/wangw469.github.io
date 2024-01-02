@@ -59,7 +59,6 @@ First, I tried the built-in solution like: Shortcuts, looks like it's not very s
 
 Then I find [karabiner-elements](https://karabiner-elements.pqrs.org/) which works very well and even have built-in config to map function keys as media playback keys:
 
-* f6: eject cd
 * f7: rewind
 * f8: play/pause
 * f9: fast foward
@@ -67,7 +66,9 @@ Then I find [karabiner-elements](https://karabiner-elements.pqrs.org/) which wor
 * f11: volume down
 * f12: volume up
 
-The only configuration I need is to [make the eject function work](https://github.com/wangw469/wangw469.github.io/blob/master/blog/cd-player/eject-config.json). 
+The only configuration I need is to [make the eject function work](https://github.com/wangw469/wangw469.github.io/blob/master/blog/cd-player/eject-config.json):
+
+* f6: eject cd
 
 The trick part here is to first [stop](https://github.com/wangw469/wangw469.github.io/blob/master/blog/cd-player/stop.sh) mpv before calling diskutil to [eject](https://github.com/wangw469/wangw469.github.io/blob/master/blog/cd-player/eject.sh) CD.
 
