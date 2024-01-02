@@ -1,0 +1,16 @@
+{
+    "description": "F6 to Eject CD",
+    "manipulators": [
+        {
+            "from": {
+                "key_code": "f6"
+            },
+            "to": [
+                {
+                    "shell_command": "/bin/bash /Users/wen/personal/cd/stop.sh; /bin/bash /Users/wen/personal/cd/eject.sh"
+                }
+            ],
+            "type": "basic"
+        }
+    ]
+}
