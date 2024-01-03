@@ -2,7 +2,7 @@
 layout: post
 title:  台语歌新风潮
 city: Soochow
-date: 17 Dec
+date: 17 Dec 2023
 ---
 
 这首歌不管是 mv 还是旋律、歌词，都很迷人，听了很多遍也不厌倦。
