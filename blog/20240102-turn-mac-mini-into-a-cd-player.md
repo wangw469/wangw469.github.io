@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Turn mac mini into a CD player"
 date: 2024-01-02
 ---
