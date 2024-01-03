@@ -14,6 +14,10 @@ date: 2024-01-02
 * [New York Times](https://www.nytimes.com/spotlight/best-of)
 * [The Economist](https://www.economist.com/best-of-the-year)
 
+# Youtube playlist
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=6l5YylZPIfJL8hvE&amp;list=PLUjpTH2knFZEo9oftxEtcWujJSZVESSCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 # Friends' blog
 
 * [binwh 一只产品汪](https://binwh.com/)
