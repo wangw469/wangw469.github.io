@@ -2,11 +2,6 @@
 title: "Links that I found interesting"
 date: 2024-01-02
 ---
-<style>
-body { max-width: 800px; margin: 40px; }
-</style>
-
-<meta name="viewport" content="width=device-width, initial-scale=1">
 
 # Side projects (from mastodon)
 
