@@ -1,11 +1,9 @@
 ---
 layout: post
 title:  台语歌新风潮
+city: Soochow
+date: 17 Dec
 ---
-
-{{ page.title }}
-================
-<p class="meta">Sun 17 Dec 2023 - Soochow </p>
 
 这首歌不管是 mv 还是旋律、歌词，都很迷人，听了很多遍也不厌倦。
 

@@ -1,11 +1,9 @@
 ---
 layout: post
 title:  唱片公司列表
+city: Soochow
+date: 21 Dec 2023
 ---
-
-{{ page.title }}
-================
-<p class="meta"> 21 Dec 2023 - Soochow </p>
 
 终于，在唱片产业奄奄一息的时候，我关心起了制作这些音乐的人，因为除了他们和少数音乐爱好者，没有人在关心音乐了。
 
@@ -57,7 +55,7 @@ Taylor Swift 所在的廠牌，The Weekend 也是他們的，頂流了。
 
 # 我手頭僅有的幾張可以播放的 CD 唱片文案介紹
 
-* [范特西CD](https://web.archive.org/web/20150110162747/http://www.jvrmusic.com/artist/work-album_full.asp?id=15&artistid=1) 
+* [范特西CD](https://web.archive.org/web/20150110162747/http://www.jvrmusic.com/artist/work-album_full.asp?id=15&artistid=1)
 * [范特西黑膠](https://www.sonymusic.com.tw/album/jay-chou-fantasy-vinyl-2lp/)
 * [真善美](https://www.lfmusic.com/music/detail?id=1314)
 * [我要的幸福](https://www.warnermusic.com.tw/products/%E5%AD%AB%E7%87%95%E5%A7%BF-%E6%88%91%E8%A6%81%E7%9A%84%E5%B9%B8%E7%A6%8F)

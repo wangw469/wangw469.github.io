@@ -1,11 +1,9 @@
 ---
 layout: post
 title: 如何写出没有bug的代码？
+city: Soochow
+date: 11 June 2020
 ---
-
-{{ page.title }}
-================
-<p class="meta">11 June 2020 - Soochow</p>
 
 去年的某个时间，我在hacker news上看到了nocode项目：
 

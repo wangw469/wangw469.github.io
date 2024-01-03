@@ -1,11 +1,9 @@
 ---
 layout: post
 title: 偶遇仙人Richard Stallman
+city: Zhuhai
+date: 18 October 2009
 ---
-
-{{ page.title }}
-================
-<p class="meta">18 October 2009 - Zhuhai</p>
 
 正当我在老虎的蛊惑之下，再一次安装起Linux系统的时候，仿佛冥冥之中的安排，自由软件的发起人Richard Stallman来到了我们公司作技术演讲。
 这是我第一次有机会和这样的技术大牛正面接触，哪怕是抱着沾点仙气的心态，这样的相遇也绝对不能错过。结果也确实没有叫我失望，听这位发起人娓娓道来整件事情的原委，着实比看网上枯燥的文字介绍生动鲜活太多。

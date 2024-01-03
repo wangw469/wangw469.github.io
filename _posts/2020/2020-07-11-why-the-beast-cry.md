@@ -1,11 +1,9 @@
 ---
 layout: post
 title: 火云邪神为什么哭了？
+city: Kunshan
+date: 11 July 2020
 ---
-
-{{ page.title }}
-================
-<p class="meta">11 July 2020 - Kunshan</p>
 
 电影功夫的结尾，有个著名场景：
 

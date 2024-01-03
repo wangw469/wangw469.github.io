@@ -1,11 +1,9 @@
 ---
 layout: post
 title:  微信得来终觉浅
+city: Soochow
+date: 21 Dec 2023
 ---
-
-{{ page.title }}
-================
-<p class="meta"> 21 Dec 2023 - Soochow </p>
 
 微信在我的手机上肆无忌惮地膨胀着，10G，20G . That's enough ！终有一日，我要说出这句话。
 

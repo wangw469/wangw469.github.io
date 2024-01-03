@@ -1,11 +1,9 @@
 ---
 layout: post
 title: 从有关运通的一篇新闻看媒体质量
+city: Kunshan
+date: 15 June 2008
 ---
-
-{{ page.title }}
-================
-<p class="meta">15 June 2008 - Kunshan</p>
 
 昨天我在Twitter上看到一篇有关人民银行批准运通人民币结算业务的新闻，根据截图的文字找到了新闻。
 

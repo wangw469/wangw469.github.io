@@ -1,11 +1,9 @@
 ---
 layout: post
 title:  iPad 可以是你的下一台 Apple TV
+city:
+date: Thu 22 Jun
 ---
-
-{{ page.title }}
-================
-<p class="meta">Thu 22 Jun 2023 - Soochow </p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pkX1qDkfv0M?si=6yklCGadYXB9bx2W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

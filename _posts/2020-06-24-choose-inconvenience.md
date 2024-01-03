@@ -1,11 +1,9 @@
 ---
 layout: post
 title: 流下汗水，远离方便
+city: Kunshan
+date: 24 June 2020
 ---
-
-{{ page.title }}
-================
-<p class="meta">24 June 2020 - Kunshan</p>
 
 最近看到李如一的一篇文章：[『Pull, Don’t be Pushed』](https://blog.yitianshijie.net/2020/03/03/pull-do-not-be-pushed/)，感觉说的很好。
 

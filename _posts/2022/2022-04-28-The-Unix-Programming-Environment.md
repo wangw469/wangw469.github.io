@@ -1,11 +1,9 @@
 ---
 layout: post
 title:  The Unix Programming Environment 读书笔记
+city:
+date: Thu 28 Apr
 ---
-
-{{ page.title }}
-================
-<p class="meta">Thu 28 Apr 2022 - Soochow </p>
 
 上周找到了这本书 The Unix Programming Environment 。
 

@@ -1,11 +1,9 @@
 ---
 layout: post
 title: 还是要保持好奇啊混蛋们
+city: Soochow
+date: 16 June 2018
 ---
-
-{{ page.title }}
-================
-<p class="meta">16 June 2018 - Soochow</p>
 
 是的，标题我是抄了这首歌名，他抄了谁的我就不清楚了。
 

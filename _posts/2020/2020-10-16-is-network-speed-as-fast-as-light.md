@@ -1,11 +1,9 @@
 ---
 layout: post
 title: 网络传输接近光速么？
+city: Soochow
+date: 16 Oct 2020
 ---
-
-{{ page.title }}
-================
-<p class="meta">16 Oct 2020 - Soochow </p>
 
 * 计算出地球上最远的两点之间的一个来回通信时间：**133.675811151 ms**
   * 地球周长 40,075 km

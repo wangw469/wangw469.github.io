@@ -1,11 +1,9 @@
 ---
 layout: post
 title: 脱离群众
+city: Kunshan
+date: 30 Sep 2020
 ---
-
-{{ page.title }}
-================
-<p class="meta">30 Sep 2020 - Kunshan</p>
 
 这个曾经的罪名，今天却变成了一些房产开发商的宣传标语。世界的变化真是奇妙。
 

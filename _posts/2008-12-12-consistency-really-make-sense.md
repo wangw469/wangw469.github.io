@@ -1,18 +1,16 @@
 ---
 layout: post
 title: 一贯性真的很重要（Consistency really make sense）
+city: ZhuHai
+date: 12 December 2008
 ---
-
-{{ page.title }}
-================
-<p class="meta">12 December 2008 - Zhu Hai</p>
 
 在<a href="http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml#Existing_Non-conformant_Code">Google的C++代码规范</a>的快结尾的地方，写了这样一段话
 
 > Existing Non-conformant Code
 >
 > You may diverge from the rules when dealing with code that does not conform to this style guide.
-> 
+>
 > If you find yourself modifying code that was written to specifications other than those presented by this guide, you may have to diverge from these rules in order to stay consistent with the local conventions in that code. If you are in doubt about how to do this, ask the original author or the person currently responsible for the code. Remember that consistency includes local consistency, too.
 
 哇，同学们，注意啦！这不是在说代码规范啊，简直是在教你做人的哲学！

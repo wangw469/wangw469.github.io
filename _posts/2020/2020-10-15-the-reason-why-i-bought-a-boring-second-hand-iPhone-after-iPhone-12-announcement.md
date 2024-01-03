@@ -1,11 +1,9 @@
 ---
 layout: post
 title: iPhone 12 的发布会之后，我买了台无聊的二手 iPhone
+city: Kunshan
+date: 15 Oct 2020
 ---
-
-{{ page.title }}
-================
-<p class="meta">15 Oct 2020 - Kunshan</p>
 
 看完 iPhone 12 的新闻，看了看手上的 iPhone 7 。
 

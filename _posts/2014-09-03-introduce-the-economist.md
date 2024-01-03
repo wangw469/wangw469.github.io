@@ -1,16 +1,14 @@
 ---
 layout: post
 title: 推荐经济学人
+city: Shanghai
+date: 03 September 2014
 ---
 
-{{ page.title }}
-================
-
-<p class="meta">03 September 2014 - Shanghai</p>
 
 <p><a href="https://commons.wikimedia.org/wiki/File:The_Economist_Logo.svg#/media/File:The_Economist_Logo.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/The_Economist_Logo.svg/1200px-The_Economist_Logo.svg.png" alt="The Economist Logo.svg"></a><br>By <span lang="en">Unknown author</span> - <a href="https://da.wikipedia.org/wiki/Fil:TheEconomistLogo.svg" class="extiw" title="da:Fil:TheEconomistLogo.svg">da:Fil:TheEconomistLogo.svg</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=73372681">Link</a></p>
 
-Ladies and乡亲们，请允许我为大家推荐一份杂志：<a href="http://www.economist.com/">《经济学人》</a> 
+Ladies and乡亲们，请允许我为大家推荐一份杂志：<a href="http://www.economist.com/">《经济学人》</a>
 
 过去我一直以为经济学人是一份纯学术期刊，看名字就是经济学家看的东西。
 

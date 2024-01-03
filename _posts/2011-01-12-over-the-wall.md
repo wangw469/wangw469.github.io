@@ -1,11 +1,9 @@
 ---
 layout: post
 title: 翻越人心的篱墙
+city: ZhuHai
+date: 12 January 2014
 ---
-
-{{ page.title }}
-================
-<p class="meta">12 January 2014 - Zhu Hai</p>
 
 我越来越开始意识到，世界上最坚固的墙，不在网上，而在我们每个人心里。
 

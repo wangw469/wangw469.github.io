@@ -1,11 +1,9 @@
 ---
 layout: post
 title:  无用且低效：属于我们的时代美学
+city: Soochow
+date: 26 Dec 2023
 ---
-
-{{ page.title }}
-================
-<p class="meta"> 26 Dec 2023 - Soochow </p>
 
 # 无用之用
 
