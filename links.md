@@ -11,8 +11,13 @@ body { max-width: 800px; margin: 40px; }
 # Side projects (from mastodon)
 
 * [Set up an email server](https://famichiki.jp/@xiaopi/111685692536997779)
-* [Turn mac mini into a cd player](https://famichiki.jp/@xiaopi/111668021062749011)
+* [Turn mac mini into a cd player](https://famichiki.jp/@xiaopi/111668021062749011) --> [blog](https://xiaopi.one/blog/20240102-turn-mac-mini-into-a-cd-player.html)
 * [Some new music not from the algorithm](https://famichiki.jp/@xiaopi/111642020858497030)
+
+# Best of 2023
+
+* [New York Times](https://www.nytimes.com/spotlight/best-of)
+* [The Economist](https://www.economist.com/best-of-the-year)
 
 # Cool projects by others
 
