@@ -4,12 +4,25 @@
    <title>{{ page.title }}</title>
    <meta name="viewport" content="width=device-width, initial-scale=1">
    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+   <style>
+        .title h1,
+        .title h3 {
+            display: inline-block;
+        }
+
+        .title a {
+            margin: 20px;
+        }
+    </style>
 </head>
 <body style="max-width:800px; margin:40px;">
 
 <div class="site">
   <div class="title">
-      <h1><a href="/">文</a></h1> <h4><a href="/links.html">links</a></h4>
+      <h1><a href="/">文</a></h1>
+      <h3>
+          <a href="/links.html">links</a>
+      </h3>
   </div>
 
   {{ content }}
