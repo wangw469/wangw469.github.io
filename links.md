@@ -14,6 +14,11 @@ date: 2024-01-02
 * [New York Times](https://www.nytimes.com/spotlight/best-of)
 * [The Economist](https://www.economist.com/best-of-the-year)
 
+# Friends' blog
+
+* [binwh 一只产品汪](https://binwh.com/)
+* [I'm OWenT - Challenge Everything](https://owent.net/)
+
 # Cool projects by others
 
 * [Using a 1930 Teletype as a Linux Terminal](https://www.youtube.com/watch?v=2XLZ4Z8LpEE)
