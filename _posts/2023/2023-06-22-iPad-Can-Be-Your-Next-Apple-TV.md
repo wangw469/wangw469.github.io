@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  iPad 可以是你的下一台 Apple TV
-city:
+city: Soochow
 date: Thu 22 Jun
 ---
 
