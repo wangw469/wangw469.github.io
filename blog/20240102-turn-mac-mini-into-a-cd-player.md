@@ -3,11 +3,6 @@ layout: post
 title: "Turn mac mini into a CD player"
 date: 2024-01-02
 ---
-<style>
-body { max-width: 800px; margin: 40px; }
-</style>
-
-<meta name="viewport" content="width=device-width, initial-scale=1">
 
 ## Why CD?
 
