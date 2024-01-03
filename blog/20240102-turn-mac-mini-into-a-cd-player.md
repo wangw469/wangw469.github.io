@@ -1,5 +1,5 @@
 ---
-title: "Turn mac mini into a cd player"
+title: "Turn mac mini into a CD player"
 date: 2024-01-02
 ---
 <style>
@@ -24,11 +24,11 @@ After some search and thought, I think CD is the perfect media to do it:
 
 I want to enjoy music without any disruptions, including a GUI.
 
-So I decide to turn my daily computer(a mac mini) into a cd player.
+So I decide to turn my daily computer(a mac mini) into a CD player.
 
-I have an external CD burner connected to the Mac Mini, to make it a cd player, I need to implement these features:
+I have an external CD burner connected to the Mac Mini, to make it a CD player, I need to implement these features:
 
-* autoplay any CD I insert into external cd burner;
+* autoplay any CD I insert into external CD burner;
 * Control it by keyboard to:
   * skip forware/backward
   * Turn the volume up/down
@@ -45,12 +45,12 @@ Seems like it's a once built-in feature for Music app, but now for some reason i
 You can now implement this feature with:
 
 * macOS: [handle CDs settings](https://support.apple.com/lv-lv/guide/mac-help/mchlp1354/mac)
-* [Automator App](https://github.com/wangw469/wangw469.github.io/tree/master/blog/cd-player/auto_play_using_mpv.app/Contents)
+* [Automator App](https://github.com/wangw469/wangw469.github.io/tree/master/blog/CD-player/auto_play_using_mpv.app/Contents)
 * mpv
   
 <img width="497" alt="Screenshot 2024-01-02 at 22 07 42" src="https://github.com/wangw469/wangw469.github.io/assets/3417025/49298049-8968-4735-a03d-79a7a836efbe">
 
-The basic idea is to config macOS to launch a Automator App when a audio cd inserted which launch mpv to play CD.
+The basic idea is to config macOS to launch a Automator App when a audio CD inserted which launch mpv to play CD.
 
 ### control playback by keyboard
 
@@ -67,15 +67,15 @@ Then I find [karabiner-elements](https://karabiner-elements.pqrs.org/) which wor
 * f11: volume down
 * f12: volume up
 
-The only configuration I need is to [make the eject function work](https://github.com/wangw469/wangw469.github.io/blob/master/blog/cd-player/eject-config.json):
+The only configuration I need is to [make the eject function work](https://github.com/wangw469/wangw469.github.io/blob/master/blog/CD-player/eject-config.json):
 
-* f6: eject cd
+* f6: eject CD
 
-The trick part here is to first [stop](https://github.com/wangw469/wangw469.github.io/blob/master/blog/cd-player/stop.sh) mpv before calling diskutil to [eject](https://github.com/wangw469/wangw469.github.io/blob/master/blog/cd-player/eject.sh) CD.
+The trick part here is to first [stop](https://github.com/wangw469/wangw469.github.io/blob/master/blog/CD-player/stop.sh) mpv before calling diskutil to [eject](https://github.com/wangw469/wangw469.github.io/blob/master/blog/CD-player/eject.sh) CD.
 
 You can find all the scripts here:
 
-[https://github.com/wangw469/wangw469.github.io/tree/master/blog/cd-player](https://github.com/wangw469/wangw469.github.io/tree/master/blog/cd-player)
+[https://github.com/wangw469/wangw469.github.io/tree/master/blog/CD-player](https://github.com/wangw469/wangw469.github.io/tree/master/blog/CD-player)
 
 That's it, enjoy your CDs now!
 

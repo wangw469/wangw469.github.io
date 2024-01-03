@@ -10,8 +10,9 @@ body { max-width: 800px; margin: 40px; }
 
 # Side projects (from mastodon)
 
-* [Set up a email server](https://famichiki.jp/@xiaopi/111685692536997779)
+* [Set up an email server](https://famichiki.jp/@xiaopi/111685692536997779)
 * [Turn mac mini into a cd player](https://famichiki.jp/@xiaopi/111668021062749011)
+* [Some new music not from the algorithm](https://famichiki.jp/@xiaopi/111642020858497030)
 
 # Cool projects by others
 
