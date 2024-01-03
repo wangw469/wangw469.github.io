@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "从权恩妃的表演中一窥老上海的风情万种"
-author: 文@Soochow
+city: Soochow
 date: 2023-12-17
 ---
 
