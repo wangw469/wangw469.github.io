@@ -1,3 +1,2 @@
 theme: jekyll-theme-architect
-exclude:
-    - startup.sh
+date_format: '%b %d, %Y' # e.g., "Jan 01, 2024"
