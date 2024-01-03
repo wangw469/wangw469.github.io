@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Turn mac mini into a CD player"
 date: 2024-01-02
 ---
