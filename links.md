@@ -15,6 +15,10 @@ date: 2024-01-02
 * [New York Times](https://www.nytimes.com/spotlight/best-of)
 * [The Economist](https://www.economist.com/best-of-the-year)
 
+# Papers
+
+* [Some thoughts on security after ten years of qmail 1.0](https://cr.yp.to/qmail/qmailsec-20071101.pdf)
+
 # Youtube playlist
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=6l5YylZPIfJL8hvE&amp;list=PLUjpTH2knFZEo9oftxEtcWujJSZVESSCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
