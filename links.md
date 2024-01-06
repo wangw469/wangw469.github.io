@@ -21,7 +21,7 @@ date: 2024-01-02
 
 # Youtube playlist
 
-* Kpop: mpv --shuffle '[https://www.youtube.com/playlist?list=PLUjpTH2knFZEo9oftxEtcWujJSZVESSCo](https://www.youtube.com/playlist?list=PLUjpTH2knFZEo9oftxEtcWujJSZVESSCo)'
+> Kpop: mpv --shuffle '<a href="https://www.youtube.com/playlist?list=PLUjpTH2knFZEo9oftxEtcWujJSZVESSCo">https://www.youtube.com/playlist?list=PLUjpTH2knFZEo9oftxEtcWujJSZVESSCo</a>'
 
 # Friends' blog
 
