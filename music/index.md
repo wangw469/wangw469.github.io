@@ -14,9 +14,7 @@ layout: default
 
 [https://en.wikipedia.org/wiki/David_Tao_(album)](https://en.wikipedia.org/wiki/David_Tao_(album))
 
-<p><a href="https://en.wikipedia.org/wiki/File:David_Tao_self-titled_album_artwork.jpg#/media/File:David_Tao_self-titled_album_artwork.jpg"><img src="https://upload.wikimedia.org/wikipedia/en/f/f4/David_Tao_self-titled_album_artwork.jpg" alt="David Tao self-titled album artwork.jpg" height="316" width="316"></a><br>By David Tao - &lt;a rel="nofollow" class="external free" href="https://music.apple.com/us/album/%E9%99%B6%E5%96%86%E5%90%8C%E5%90%8D%E5%B0%88%E8%BC%AF/1416149926"&gt;https://music.apple.com/us/album/%E9%99%B6%E5%96%86%E5%90%8C%E5%90%8D%E5%B0%88%E8%BC%AF/1416149926&lt;/a&gt;, <a href="//en.wikipedia.org/wiki/File:David_Tao_self-titled_album_artwork.jpg" title="Fair use of copyrighted material in the context of David Tao (album)">Fair use</a>, <a href="https://en.wikipedia.org/w/index.php?curid=71216707">Link</a></p>
-
-<p><a href="https://en.wikipedia.org/wiki/File:David_Tao_self-titled_album_artwork.jpg#/media/File:David_Tao_self-titled_album_artwork.jpg"><img src="https://upload.wikimedia.org/wikipedia/en/f/f4/David_Tao_self-titled_album_artwork.jpg" alt="David Tao self-titled album artwork.jpg" height="316" width="316"></a><a href="https://en.wikipedia.org/w/index.php?curid=71216707">Link</a></p>
+<img src="https://upload.wikimedia.org/wikipedia/en/f/f4/David_Tao_self-titled_album_artwork.jpg" alt="David Tao self-titled album artwork.jpg" height="316" width="316">
 
 ## Jay Chou: Jay
 
