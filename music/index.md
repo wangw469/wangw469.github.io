@@ -2,6 +2,17 @@
 layout: default
 ---
 
+# find new music:
+
+* algorithm:
+    * [Youtube Music](https://music.youtube.com/library)
+* media:
+    * [New York Times](https://www.nytimes.com/section/arts/music)
+* awards:
+    * [GMA](https://gma.tavis.tw/mediaGroup/default.asp)
+    * [Grammy](https://www.grammy.com/)
+    * [Douban](https://music.douban.com/annual/2023/?source=music_navigation)
+
 # 人生若只如初见 Great debut albums
 
 ## Hikaru Utada: First Love
