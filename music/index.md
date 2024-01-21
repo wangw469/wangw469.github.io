@@ -2,7 +2,11 @@
 layout: default
 ---
 
-# find new music:
+# Plyalist
+
+* [K-Pop Girl Group Essentials](https://youtube.com/playlist?list=PLq8dmudRNUv-AQ7wm9IzGpnr0Gw6l-O28&si=KjvufKQK_0XaSyIs)
+
+# discovery new music
 
 * algorithm:
     * [Youtube Music](https://music.youtube.com/library)
