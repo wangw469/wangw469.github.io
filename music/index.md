@@ -2,6 +2,11 @@
 layout: default
 ---
 
+# Artist
+
+* [Hebe Tien](https://music.youtube.com/channel/UCGkj4uoWx_1BA2tF9Q-9Y6w?si=ChwU0jjJLFW_ZCL_)
+* [Hikaru Utada](https://music.youtube.com/channel/UCfDndVwpf3tOF-vDmFQveog)
+
 # Plyalist
 
 * [K-Pop Girl Group Essentials](https://youtube.com/playlist?list=PLq8dmudRNUv-AQ7wm9IzGpnr0Gw6l-O28&si=KjvufKQK_0XaSyIs)
