@@ -22,6 +22,7 @@ date: 2024-01-02
 # Youtube playlist
 
 > Kpop: mpv --shuffle '<a href="https://www.youtube.com/playlist?list=PLUjpTH2knFZEo9oftxEtcWujJSZVESSCo">https://www.youtube.com/playlist?list=PLUjpTH2knFZEo9oftxEtcWujJSZVESSCo</a>'
+* [王立群读史记：秦始皇](https://www.youtube.com/watch?v=x2Lw51uylHs&list=PLlD7SeKBB31cOkW4dM6bW4sv5P4jHSZ7d&pp=iAQB)
 
 # Friends' blog
 
