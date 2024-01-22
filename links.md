@@ -7,7 +7,7 @@ date: 2024-01-02
 
 * 2024-01-04: [All you need is just a file system](https://famichiki.jp/@xiaopi/111695727220626408)
 * [Set up an email server](https://famichiki.jp/@xiaopi/111685692536997779)
-* [Turn mac mini into a cd player](https://famichiki.jp/@xiaopi/111668021062749011) --> [blog](https://xiaopi.one/blog/20240102-turn-mac-mini-into-a-cd-player.html)
+* [Turn mac mini into a cd player](https://famichiki.jp/@xiaopi/111668021062749011) --> [blog](https://xiaopi.one/2024/01/02/turn-mac-mini-into-a-cd-player.html)
 * [Some new music not from the algorithm](https://famichiki.jp/@xiaopi/111642020858497030)
 
 # Best of 2023
