@@ -20,6 +20,10 @@ date: 2024-01-02
 * [Some thoughts on security after ten years of qmail 1.0](https://cr.yp.to/qmail/qmailsec-20071101.pdf)
 * [Ask HN: What is your favorite CS paper?](https://news.ycombinator.com/item?id=15089476)
 
+# History
+
+* [《秦始皇本纪》](https://ctext.org/shiji/qin-shi-huang-ben-ji/zhs)
+
 # Youtube playlist
 
 * [Kpop](https://www.youtube.com/playlist?list=PLUjpTH2knFZEo9oftxEtcWujJSZVESSCoa)
