@@ -34,9 +34,10 @@ date: 2024-01-02
 * [PAPERCRAFT MODELS](https://archive.org/details/amiga-500-new-art-ver1_202210/Classic%20Computer%20Papercrafts/Amstrad-CPC-264-Papercraft-Ver-2/)
 * [Using a 1930 Teletype as a Linux Terminal](https://www.youtube.com/watch?v=2XLZ4Z8LpEE)
 
-# Linux
+# Open Source
 
 * [Linux from scratch](https://www.linuxfromscratch.org/)
+* [The Architecture of Open Source Applications](https://aosabook.org/en/v1/sendmail.html)
 
 # Game Develop
 
