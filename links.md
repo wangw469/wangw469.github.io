@@ -18,6 +18,7 @@ date: 2024-01-02
 # Papers
 
 * [Some thoughts on security after ten years of qmail 1.0](https://cr.yp.to/qmail/qmailsec-20071101.pdf)
+* [Ask HN: What is your favorite CS paper?](https://news.ycombinator.com/item?id=15089476)
 
 # Youtube playlist
 
