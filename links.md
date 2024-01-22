@@ -22,7 +22,7 @@ date: 2024-01-02
 
 # History
 
-* [《秦始皇本纪》](https://ctext.org/shiji/qin-shi-huang-ben-ji/zhs)
+* [《秦始皇本纪》](https://ctext.org/shiji/qin-shi-huang-ben-ji/)
 
 # Youtube playlist
 
