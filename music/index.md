@@ -10,6 +10,8 @@ layout: default
 # Plyalist
 
 * [K-Pop Girl Group Essentials](https://youtube.com/playlist?list=PLq8dmudRNUv-AQ7wm9IzGpnr0Gw6l-O28&si=KjvufKQK_0XaSyIs)
+* [Hikaru Utada Live Sessions from AIR Studios](https://www.netflix.com/title/81590689)
+* [laughter in the dark tour 2018](https://www.netflix.com/title/81092491)
 
 # discovery new music
 
