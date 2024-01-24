@@ -19,6 +19,7 @@ layout: default
     * [Youtube Music](https://music.youtube.com/library)
 * media:
     * [New York Times](https://www.nytimes.com/section/arts/music)
+    * [南方周末](https://bing.com/search?q=site%3Ahttps%3A%2F%2Fwww.infzm.com+%E9%9F%B3%E4%B9%90)
 * awards:
     * [GMA](https://gma.tavis.tw/mediaGroup/default.asp)
     * [Grammy](https://www.grammy.com/)
