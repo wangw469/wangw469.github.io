@@ -61,6 +61,7 @@ date: 2024-01-02
 * [K Drama](https://ww1.kissasian.video/home.html)
 * [高分经典情色片榜](https://m.douban.com/subject_collection/film_genre_37)
   * [The Handmaiden](https://www.amazon.com/Handmaiden-KIM-MIN-hee/dp/B08J8K9KJQ)
+  * [The Lover](https://ridomovies.tv/movies/the-lover-watch-online-1992)
 
 This page is inspired by Nina's [links page](http://www.ninakalinina.com/links.htm),
 thanks a lot for this great ideal and tell me [how to do it](https://tech.lgbt/@nina_kali_nina/111661329226873270#.).
