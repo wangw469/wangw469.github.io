@@ -6,6 +6,11 @@ date: 2024-01-02
 # Side projects (from mastodon)
 
 * 2024-01-04: [All you need is just a file system](https://famichiki.jp/@xiaopi/111695727220626408)
+    * [The new ext4 filesystem: current status and future plans](https://www.kernel.org/doc/ols/2007/ols2007v2-pages-21-34.pdf)
+    * [Filesystem Hierarchy Standard](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf)
+    * [Apple File System Reference](https://developer.apple.com/support/downloads/Apple-File-System-Reference.pdf)
+    * [ZFS The Future Of File Systems](https://courses.cs.washington.edu/courses/cse451/20sp/lectures/14.1-zfs-intro.pdf)
+    * [Reverse Engineering the Microsoft Extended FAT File System (exFAT)](https://www.giac.org/paper/gcfa/570/reverse-engineering-microsoft-exfat-file-system/106672)
 * [Set up an email server](https://famichiki.jp/@xiaopi/111685692536997779)
 * [Turn mac mini into a cd player](https://famichiki.jp/@xiaopi/111668021062749011) --> [blog](https://xiaopi.one/2024/01/02/turn-mac-mini-into-a-cd-player.html)
 * [Some new music not from the algorithm](https://famichiki.jp/@xiaopi/111642020858497030)
