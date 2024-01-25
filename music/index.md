@@ -7,6 +7,11 @@ layout: default
 * [Hebe Tien](https://music.youtube.com/channel/UCGkj4uoWx_1BA2tF9Q-9Y6w?si=ChwU0jjJLFW_ZCL_)
 * [Hikaru Utada](https://music.youtube.com/channel/UCfDndVwpf3tOF-vDmFQveog)
 
+# Songs
+
+* [若是明仔載](https://www.youtube.com/watch?v=1nFImzIyYCw)
+* [這款自作多情](https://youtu.be/UocMW7BG0ls?si=grGGy3ZU12aBTRkB)
+
 # Plyalist
 
 * [K-Pop Girl Group Essentials](https://youtube.com/playlist?list=PLq8dmudRNUv-AQ7wm9IzGpnr0Gw6l-O28&si=KjvufKQK_0XaSyIs)

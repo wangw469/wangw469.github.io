@@ -48,6 +48,14 @@ date: 2024-01-02
 
 * [8bitworkshop](https://8bitworkshop.com/)
 
+# Movie
+
+* [The Handmaiden](https://www.amazon.com/Handmaiden-KIM-MIN-hee/dp/B08J8K9KJQ)
+* [A city of sadness](https://archive.org/details/a.-city.of.-sadness.-1989.-sd.-dvd.x-264.-ac-3-tbb)
+* [Where do you guys download your Korean Drama torrents](https://www.reddit.com/r/KDRAMA/comments/5mizty/where_do_you_guys_download_your_korean_drama/)
+* [K Drama](https://dramacools1.cam/)
+* [K Drama](https://ww1.kissasian.video/home.html)
+
 This page is inspired by Nina's [links page](http://www.ninakalinina.com/links.htm),
 thanks a lot for this great ideal and tell me [how to do it](https://tech.lgbt/@nina_kali_nina/111661329226873270#.).
 
