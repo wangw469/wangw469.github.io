@@ -33,6 +33,7 @@ date: 2024-01-02
 
 * [Kpop](https://www.youtube.com/playlist?list=PLUjpTH2knFZEo9oftxEtcWujJSZVESSCoa)
 * [王立群读史记：秦始皇](https://www.youtube.com/watch?v=x2Lw51uylHs&list=PLlD7SeKBB31cOkW4dM6bW4sv5P4jHSZ7d&pp=iAQB)
+* [今夜不設防](https://www.youtube.com/@atvhongkong/search?query=%E4%BB%8A%E5%A4%9C%E4%B8%8D%E8%AE%BE%E9%98%B2)
 
 # Friends' blog
 
@@ -71,6 +72,7 @@ date: 2024-01-02
 # TV live
 
 * [CCTV](https://tv.cctv.com/live/)
+* [凤凰卫视资讯台](https://www.youtube.com/watch?v=0K6C6Rv4RR4)
 * [CNA](https://www.youtube.com/watch?v=XWq5kBlakcQ)
 * [Sky](https://www.youtube.com/watch?v=w9uJg68CV4g)
 
