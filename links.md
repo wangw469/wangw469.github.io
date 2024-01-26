@@ -49,6 +49,11 @@ date: 2024-01-02
 * [Linux from scratch](https://www.linuxfromscratch.org/)
 * [The Architecture of Open Source Applications](https://aosabook.org/en/v1/sendmail.html)
 
+# Linux from scratch
+
+* [Build a LinuxFromScratch System](https://www.youtube.com/watch?v=IXA0GNTLf_Q&list=PLHh55M_Kq4OAPznDEcgnkQsbjgvG-QFBR)
+* [Eater](https://eater.net/)
+
 # Game Develop
 
 * [8bitworkshop](https://8bitworkshop.com/)
@@ -62,6 +67,12 @@ date: 2024-01-02
 * [高分经典情色片榜](https://m.douban.com/subject_collection/film_genre_37)
   * [The Handmaiden](https://www.amazon.com/Handmaiden-KIM-MIN-hee/dp/B08J8K9KJQ)
   * [The Lover](https://ridomovies.tv/movies/the-lover-watch-online-1992)
+
+# TV live
+
+* [CCTV](https://tv.cctv.com/live/)
+* [CNA](https://www.youtube.com/watch?v=XWq5kBlakcQ)
+* [Sky](https://www.youtube.com/watch?v=w9uJg68CV4g)
 
 This page is inspired by Nina's [links page](http://www.ninakalinina.com/links.htm),
 thanks a lot for this great ideal and tell me [how to do it](https://tech.lgbt/@nina_kali_nina/111661329226873270#.).
