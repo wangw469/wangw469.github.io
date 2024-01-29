@@ -49,6 +49,7 @@ date: 2024-01-02
 
 * [Linux from scratch](https://www.linuxfromscratch.org/)
 * [The Architecture of Open Source Applications](https://aosabook.org/en/v1/sendmail.html)
+* [W3M ROCKS](http://w3m.rocks/)
 
 # Linux from scratch
 
