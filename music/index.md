@@ -2,6 +2,11 @@
 layout: default
 ---
 
+# Charst
+
+* [Top 100 Music Videos South Korea](https://www.youtube.com/playlist?list=PL4fGSI1pDJn5S09aId3dUGp40ygUqmPGc)
+* [Youtube charts US](https://charts.youtube.com/)
+
 # Artist
 
 * [Hebe Tien](https://music.youtube.com/channel/UCGkj4uoWx_1BA2tF9Q-9Y6w?si=ChwU0jjJLFW_ZCL_)
