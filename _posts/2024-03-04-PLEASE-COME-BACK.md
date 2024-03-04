@@ -5,7 +5,7 @@ city: Suzhou
 date: 4 Mar 2024
 ---
 
-https://music.youtube.com/playlist?list=OLAK5uy_krfpiUfORvuCzfVCh7A_KOeGA59rZbSlg
+[回來](https://music.youtube.com/playlist?list=OLAK5uy_krfpiUfORvuCzfVCh7A_KOeGA59rZbSlg)
 
 很難想像這張專輯不過是 iPhone 發佈前 8 年。
 
