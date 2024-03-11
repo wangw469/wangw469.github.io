@@ -79,6 +79,10 @@ date: 2024-01-02
 * [CNA](https://www.youtube.com/watch?v=XWq5kBlakcQ)
 * [Sky](https://www.youtube.com/watch?v=w9uJg68CV4g)
 
+# Investment
+
+* [CSI 300](https://www.google.com/finance/quote/000300:SHA?sa=X&ved=2ahUKEwiZic-T4OuEAxVYHEQIHSvNDpUQ3ecFegQIKRAf)
+
 This page is inspired by Nina's [links page](http://www.ninakalinina.com/links.htm),
 thanks a lot for this great ideal and tell me [how to do it](https://tech.lgbt/@nina_kali_nina/111661329226873270#.).
 
