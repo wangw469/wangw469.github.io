@@ -2,6 +2,19 @@
 layout: default
 ---
 
+# discovery new music
+
+* algorithm:
+    * [Youtube Music](https://music.youtube.com/library)
+* media:
+    * [New York Times](https://www.nytimes.com/section/arts/music)
+    * [南方周末](https://www.infzm.com/search?k=%E9%9F%B3%E4%B9%90)
+* awards:
+    * [GMA](https://gma.tavis.tw/mediaGroup/default.asp)
+    * [Grammy](https://www.grammy.com/)
+    * [Douban](https://music.douban.com/annual/2023/?source=music_navigation)
+       * [2023 acoustic](https://music.youtube.com/playlist?list=PLUjpTH2knFZFfkeNeKzfR_AcpUUpe_8rF&si=ojtfD5yZTGlvMVb4)
+
 # Charst
 
 * [Top 100 Music Videos South Korea](https://www.youtube.com/playlist?list=PL4fGSI1pDJn5S09aId3dUGp40ygUqmPGc)
@@ -25,18 +38,6 @@ layout: default
 * [Hikaru Utada Live Sessions from AIR Studios](https://www.netflix.com/title/81590689)
 * [laughter in the dark tour 2018](https://www.netflix.com/title/81092491)
 * [村上春树喜爱的爵士乐](https://www.youtube.com/watch?v=L5NhAZnQtN8)
-
-# discovery new music
-
-* algorithm:
-    * [Youtube Music](https://music.youtube.com/library)
-* media:
-    * [New York Times](https://www.nytimes.com/section/arts/music)
-    * [南方周末](https://www.infzm.com/search?k=%E9%9F%B3%E4%B9%90)
-* awards:
-    * [GMA](https://gma.tavis.tw/mediaGroup/default.asp)
-    * [Grammy](https://www.grammy.com/)
-    * [Douban](https://music.douban.com/annual/2023/?source=music_navigation)
 
 # 人生若只如初见 Great debut albums
 
