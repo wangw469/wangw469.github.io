@@ -34,7 +34,7 @@ layout: default
 
 # Plyalist
 
-* [K-Pop Girl Group Essentials](https://youtube.com/playlist?list=PLq8dmudRNUv-AQ7wm9IzGpnr0Gw6l-O28&si=KjvufKQK_0XaSyIs)
+* [人生若只如初见 Great debut albums](https://music.youtube.com/playlist?list=PLUjpTH2knFZFZf8d7WriC4ZvTa4EheGoc&si=d1khWsZPSf3Wo_QI)
 * [Hikaru Utada Live Sessions from AIR Studios](https://www.netflix.com/title/81590689)
 * [laughter in the dark tour 2018](https://www.netflix.com/title/81092491)
 * [村上春树喜爱的爵士乐](https://www.youtube.com/watch?v=L5NhAZnQtN8)
