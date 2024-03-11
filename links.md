@@ -83,6 +83,7 @@ date: 2024-01-02
 
 * [CSI 300](https://www.google.com/finance/quote/000300:SHA?sa=X&ved=2ahUKEwiZic-T4OuEAxVYHEQIHSvNDpUQ3ecFegQIKRAf)
 * [S&P 500](https://www.google.com/finance/quote/.INX:INDEXSP)
+* [BTC](https://www.google.com/finance/quote/BTC-USD)
 
 This page is inspired by Nina's [links page](http://www.ninakalinina.com/links.htm),
 thanks a lot for this great ideal and tell me [how to do it](https://tech.lgbt/@nina_kali_nina/111661329226873270#.).
