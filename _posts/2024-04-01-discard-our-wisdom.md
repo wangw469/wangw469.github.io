@@ -15,6 +15,6 @@ date: 1 Apr 2024
 
 於 二四年 愚人節
 
-![IMG_4588.jpg](./IMG_4588.jpg)
+![IMG_4588.jpg](/photos/IMG_4588.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Rk099vYgDo?si=A9xdcaomo9A_iRzx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
