@@ -7,7 +7,7 @@ date: 1 Apr 2024
 
 放棄我們的小技巧、小聰明，做個快樂的愚人，難得糊塗。
 
-> 绝圣弃智 民利百倍
+> [绝圣弃智 民利百倍](https://ctext.org/dictionary.pl?if=gb&id=11610&remap=gb)
 
 我們也是民 自然
 
