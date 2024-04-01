@@ -11,7 +11,7 @@ date: 1 Apr 2024
 
 我們也是民 自然
 
-> If we could renounce our sageness and discard our wisdom, If we could renounce our sageness and discard our wisdom,
+> If we could renounce our sageness and discard our wisdom, it would be better for the people a hundredfold.
 
 於 二四年 愚人節
 
