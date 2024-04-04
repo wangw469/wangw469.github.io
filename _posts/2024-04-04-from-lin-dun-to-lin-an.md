@@ -5,12 +5,15 @@ city: Suzhou
 date: 4 Apr 2024
 ---
 
-![IMG_4580.jpg](/photos/IMG_4580.JPG)
-![IMG_4581.jpg](/photos/IMG_4581.JPG)
+> 知止而後有定，定而後能靜，靜而後能安，安而後能慮，慮而後能得。
 
 在苏州城临顿路和白塔东路交汇的地方，有一家 85度c 。店外做了开放的一排座椅，也提供了桌子，免费供人们休息。
 
 这个位置是观察这个十字路口绝佳的角度。
+
+![IMG_4580.jpg](/photos/IMG_4580.JPG)
+
+![IMG_4581.jpg](/photos/IMG_4581.JPG)
 
 临顿路的名字，因为地铁站的缘故，一直听说，但是从来没细想过。仔细一看这两个字看起来和临安像是一个系列的。
 
@@ -33,6 +36,7 @@ date: 4 Apr 2024
 找个茶馆，喝一会茶，发会毫无用处的呆，与人无害，于己有益。
 
 ![IMG_4563.jpg](/photos/IMG_4563.JPG)
+
 ![IMG_4568.jpg](/photos/IMG_4568.JPG)
 
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=120.6221178174019%2C31.319419338118816%2C120.62565833330156%2C31.321515913531506&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=19/31.32047/120.62389&amp;layers=N">View Larger Map</a></small>
