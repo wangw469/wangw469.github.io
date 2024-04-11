@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Lana Del Rey - Summertime Sadness
+title: 刘姥姥的人生智慧
 city: Suzhou
 date: 11 Apr 2024
 ---
+
+> Success is getting what you want. Happiness is wanting what you get.
 
 今天在听歐麗娟的红楼梦讲座时，听到了这个词，来描述刘姥姥的人生智慧。
 
