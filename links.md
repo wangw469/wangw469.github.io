@@ -72,6 +72,11 @@ date: 2024-01-02
   * [The Lover](https://ridomovies.tv/movies/the-lover-watch-online-1992)
 * [Youtube Free Movie](https://www.youtube.com/feed/storefront?bp=ogUCKAY%3D)
 
+# 连续剧
+
+* [水浒传](https://www.youtube.com/watch?v=lnshzmF6sY4&list=PLIj4BzSwQ-_sEAJsZnbcxV7sBc51XE8Z5)
+* [漫长的季节](https://www.youtube.com/watch?v=xs0OJVemJz4&list=PL0dE9r_P82-UWm8ekdBCf7tpCHw-LyhvW)
+
 # TV live
 
 * [CCTV](https://tv.cctv.com/live/)
