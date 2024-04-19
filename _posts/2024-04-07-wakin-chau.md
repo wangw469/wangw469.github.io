@@ -26,8 +26,11 @@ date: 7 Apr 2024
 周华健适合淡淡的歌词，不是那些苦情歌，而是娓娓道来，抚平我们的伤口。
 
 我們越來越愛回憶了　是不是因為不敢期待未來呢
+
 你說世界好像天天在傾塌著　只能彎腰低頭把夢越作越小了
+
 是該牽手上山看看的　最初動心的窗口有什麼景色
+
 不能不哭你就讓我把你抱著　少了大的驚喜也要找點小快樂
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CXiC5E-F-KU?si=8BkrlkGzg268qI_b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
