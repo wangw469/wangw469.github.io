@@ -15,3 +15,12 @@ date: 4 Mar 2024
 
 時代的好與壞泥沙俱下，來不及細品就已經逝者如斯夫。
 
+再次回看这张专辑的 mv ，发现了几个小细节：
+1. 专辑的封面是找钥匙的 mv 中的；
+2. 不做你的爱人里面的女主角是孟广美，可以接上后面的锵锵三人行；
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XqDtqdlP5Oc?si=uQL9Ga1g2ZfDU3bd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XHYxrZHraa4?si=xEdbJKCZbRqtNh9G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f4VZtanjgE8?si=CWQbOhjC0qO3xiG9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
