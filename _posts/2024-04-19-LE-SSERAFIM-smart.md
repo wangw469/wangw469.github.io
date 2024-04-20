@@ -7,6 +7,8 @@ date: 19 Apr 2024
 
 被她们这首 Smart 洗脑了，听完了感觉旋律就一直在脑子里绕。
 
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/tr/playlist/le-sserafim/pl.u-mJy88R4FN60pNJZ"></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KNexS61fjus?si=Ch0LtIkeaSA_nWDY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 还有一首 Easy ，还有粉丝跳的也很不错。
