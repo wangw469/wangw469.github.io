@@ -34,3 +34,6 @@ date: 20 Apr 2024
 > 大呼前輩李靑蓮
 >
 > [清・張問陶](https://www5a.biglobe.ne.jp/~shici/shi4_08/jiumeng77.htm)
+
+![20240301_072207616_iOS.JPG](/photos/20240301_072207616_iOS.JPG)
+
