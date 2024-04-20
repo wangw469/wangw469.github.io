@@ -20,3 +20,5 @@ date: 20 Apr 2024
 俗不可鄙，人都分上下半身，雅也不必高高在上，曲高和寡。
 
 如何不爭？像是「人」字，互相支撐、互相映襯，美美與共，美而不爭。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Uk_UG1zjvpU?si=JtOavz6aDBj8zh3f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
