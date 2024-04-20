@@ -5,6 +5,8 @@ city: Suzhou
 date: 4 Mar 2024
 ---
 
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/tr/album/%E5%9B%9E%E4%BE%86/1167464484"></iframe>
+
 [回來](https://music.youtube.com/playlist?list=OLAK5uy_krfpiUfORvuCzfVCh7A_KOeGA59rZbSlg)
 
 很難想像這張專輯不過是 iPhone 發佈前 8 年。
