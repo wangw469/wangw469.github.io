@@ -5,6 +5,8 @@ city: Suzhou
 date: 7 Apr 2024
 ---
 
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/tr/playlist/%E5%91%A8%E5%8D%8E%E5%81%A5/pl.u-9N9LL2LT1rWV1bN"></iframe>
+
 “有没有那么一首歌 会让你突然想起了我”
 
 是的，夜里陪娃睡觉的时候，我想起了周华健，所以放了他的歌。
@@ -20,8 +22,6 @@ date: 7 Apr 2024
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_-rUZu0R_Ww?si=K-J5bBFk-Z6pYSKg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 再听到节奏轻快，吉他伴奏的小天堂 ” 看着你睡得好甜好香 好梦无边 我的天堂“ ，这么清爽的歌，真适合春天里来听。
-
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/tr/album/my-little-paradise/151323113?i=151323119"></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KGIZ2zWsf8E?si=6WDEWqbbCQ1wWzqt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
