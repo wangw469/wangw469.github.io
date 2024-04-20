@@ -21,6 +21,8 @@ date: 7 Apr 2024
 
 再听到节奏轻快，吉他伴奏的小天堂 ” 看着你睡得好甜好香 好梦无边 我的天堂“ ，这么清爽的歌，真适合春天里来听。
 
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/tr/album/my-little-paradise/151323113?i=151323119"></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KGIZ2zWsf8E?si=6WDEWqbbCQ1wWzqt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 周华健适合淡淡的歌词，不是那些苦情歌，而是娓娓道来，抚平我们的伤口。
