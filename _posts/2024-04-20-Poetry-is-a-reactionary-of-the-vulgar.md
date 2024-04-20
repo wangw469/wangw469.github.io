@@ -21,4 +21,4 @@ date: 20 Apr 2024
 
 如何不爭？像是「人」字，互相支撐、互相映襯，美美與共，美而不爭。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Uk_UG1zjvpU?si=JtOavz6aDBj8zh3f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/tr/album/%E5%8D%97%E6%96%B9%E5%A7%91%E5%A8%98/1722413125?i=1722413132"></iframe>
