@@ -15,6 +15,6 @@ date: 2024-04-21
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/tr/playlist/gma%E6%9C%80%E4%BD%B3%E4%BD%9C%E6%9B%B2%E4%BA%BA%E5%A5%96/pl.u-mJy88gEuN60pNJZ"></iframe>
 
-[维基百科](https://zh.wikipedia.org/wiki/%E6%9C%80%E4%BD%B3%E4%BD%9C%E6%9B%B2%E4%BA%BA%E7%8D%8E_(%E9%87%91%E6%9B%B2%E7%8D%8E)
+[维基百科](https://zh.wikipedia.org/wiki/%E6%9C%80%E4%BD%B3%E4%BD%9C%E6%9B%B2%E4%BA%BA%E7%8D%8E_(%E9%87%91%E6%9B%B2%E7%8D%8E))
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z13yme_ydgw?si=WFhbndhR50qS_Qn4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
