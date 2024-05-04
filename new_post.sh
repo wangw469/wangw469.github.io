@@ -23,3 +23,5 @@ EOF
 
 echo "Markdown file $FILE_NAME.md with title '$TITLE' and date '$DATE' created successfully."
 
+vim "./_posts/$FILE_NAME.md"
+
