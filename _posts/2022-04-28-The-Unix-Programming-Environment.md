@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  The Unix Programming Environment 读书笔记
-date: Thu 28 Apr
+date: 2022-04-28
 ---
 
 上周找到了这本书 The Unix Programming Environment 。
