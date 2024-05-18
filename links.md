@@ -76,6 +76,7 @@ date: 2024-01-02
 
 * [水浒传](https://www.youtube.com/watch?v=lnshzmF6sY4&list=PLIj4BzSwQ-_sEAJsZnbcxV7sBc51XE8Z5)
 * [漫长的季节](https://www.youtube.com/watch?v=xs0OJVemJz4&list=PL0dE9r_P82-UWm8ekdBCf7tpCHw-LyhvW)
+* [不夠善良的我們](https://www.iq.com/play/imperfect-us-episode-2-t25dxo9wkk?lang=en_us)
 
 # TV live
 
