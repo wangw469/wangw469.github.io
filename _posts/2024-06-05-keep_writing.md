@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "保持敏感 繼續書寫"
+title: 保持敏感 繼續書寫
 city: Suzhou
 date: 2024-06-05
 ---
