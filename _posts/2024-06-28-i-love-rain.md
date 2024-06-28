@@ -7,7 +7,7 @@ date: 2024-06-28
 
 ![the_imitation_game.jpg](/photos/the_imitation_game.jpg)
 
-最近，南入了雨季，雨是停不了了。
+最近，江南入了雨季，雨是停不了了。
 
 我却习惯了不打伞在雨中散步，不知道是不是看西片学了点精致的淘气。
 
