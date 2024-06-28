@@ -8,6 +8,14 @@ for i in *.HEIC; do
     fi
 done
 
+for i in *.PNG; do
+    echo $i
+    width=$(ffprobe -v error -select_streams v:0 -show_entries stream=width -of default=noprint_wrappers=1:nokey=1 "$i")
+    if [ "$width" -gt 1080 ]; then
+        ffmpeg -i "$i" -map_metadata -1 -vf scale=1080:-1 -y "${i%.*}.jpg";
+    fi
+done
+
 for i in *.jpg; do
     echo $i
     width=$(ffprobe -v error -select_streams v:0 -show_entries stream=width -of default=noprint_wrappers=1:nokey=1 "$i")
