@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "精緻的西洋氣"
-city: city: Suzhou
-date:   date: 2024-06-28
+city: Suzhou
+date: 2024-06-28
 ---
 
 ![the_imitation_game.jpg](/photos/the_imitation_game.jpg)
