@@ -3,6 +3,13 @@ title: "Links that I found interesting"
 date: 2024-01-02
 ---
 
+# Radio
+
+* [央广网](http://www.cnr.cn/gbzb/)
+    * HitFM 国际流行音乐
+* [愛樂電台](https://www.e-classical.com.tw/index.html)
+* [HitFM](https://www.hitoradio.com/newweb/onair_n_ajax.php)
+
 # Side projects (from mastodon)
 
 * 2024-01-04: [All you need is just a file system](https://famichiki.jp/@xiaopi/111695727220626408)
