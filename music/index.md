@@ -9,6 +9,7 @@ layout: default
 * media:
     * [New York Times](https://www.nytimes.com/section/arts/music)
     * [南方周末](https://www.infzm.com/search?k=%E9%9F%B3%E4%B9%90)
+    * [豆瓣250](https://music.douban.com/top250)
 * awards:
     * [GMA](https://gma.tavis.tw/mediaGroup/default.asp)
     * [Grammy](https://www.grammy.com/)
