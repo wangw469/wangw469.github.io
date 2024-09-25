@@ -25,3 +25,5 @@ date: 2024-09-25
 * [csjames](https://space.bilibili.com/279219712)
 * [AudioPhil](https://www.youtube.com/@AudioPhil1/videos) : UK based channel focusing on the best possible recordings of vinyl LPs from the 60's to the current day.
 * [Music and Vinyl](https://musicandvinyl.blogspot.com/?view=flipcard)
+* [MrVinylObsessive](https://www.youtube.com/@MrVinylObsessive)
+* [CJ's Vinyl](https://www.youtube.com/@cjsvinyl/videos)
