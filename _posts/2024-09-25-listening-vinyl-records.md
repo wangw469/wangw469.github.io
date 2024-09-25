@@ -22,7 +22,7 @@ date: 2024-09-25
 
 * [膠個朋友](https://space.bilibili.com/1447736/)
 * [不让前男友找到我](https://space.bilibili.com/39725491)
-* [朵花儿黑胶糖](https://space.bilibili.com/613145936/) [Youtube](https://www.youtube.com/@VinylFlowery)
+* [朵花儿黑胶糖](https://space.bilibili.com/478516271/) [Youtube](https://www.youtube.com/@VinylFlowery)
 * [csjames](https://space.bilibili.com/279219712) [Youtube](https://www.youtube.com/@csjames1230/videos)
 * [AudioPhil](https://www.youtube.com/@AudioPhil1/videos) : UK based channel focusing on the best possible recordings of vinyl LPs from the 60's to the current day.
 * [Music and Vinyl](https://musicandvinyl.blogspot.com/?view=flipcard)
