@@ -1,0 +1,21 @@
+---
+layout: post
+title: "膠個朋友"
+city: Suzhou
+date: 2024-09-25
+---
+
+实体唱片重新开始流行，其中黑胶历史最悠久，但是普遍价格昂贵，要存下很多你还需要一间大房子。
+
+感谢互联网，有网友将自己收藏的唱片播放并录制下来，让我们可以欣赏到。
+
+通过网络听黑胶看上去似乎没什么意义，对我来说，这个过程中的重点是发现那些值得被聆听的音乐。
+
+如果一张唱片让人愿意为它付出这么多代价，相信是有魅力的。
+
+我发现了几个分享黑胶唱片的爱好者，罗列在此和大家分享：
+
+* [膠個朋友](https://space.bilibili.com/1447736/)
+* [不让前男友找到我](https://space.bilibili.com/39725491)
+* [csjames](https://space.bilibili.com/279219712)
+* [Music and Vinyl](https://musicandvinyl.blogspot.com/?view=flipcard)
