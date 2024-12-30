@@ -3,12 +3,10 @@ title: "Links that I found interesting"
 date: 2024-01-02
 ---
 
-# Radio
+# where I get new ideal from
 
-* [央广网](http://www.cnr.cn/gbzb/)
-    * HitFM 国际流行音乐
-* [愛樂電台](https://www.e-classical.com.tw/index.html)
-* [HitFM](https://www.hitoradio.com/newweb/onair_n_ajax.php)
+* [hacker news(gopher version)](gopher://hngopher.com)
+* [openbsd](https://www.openbsd.org)
 
 # Side projects (from mastodon)
 
@@ -91,6 +89,13 @@ date: 2024-01-02
 * [凤凰卫视资讯台](https://www.youtube.com/watch?v=0K6C6Rv4RR4)
 * [CNA](https://www.youtube.com/watch?v=XWq5kBlakcQ)
 * [Sky](https://www.youtube.com/watch?v=w9uJg68CV4g)
+
+# Radio
+
+* [央广网](http://www.cnr.cn/gbzb/)
+    * HitFM 国际流行音乐
+* [愛樂電台](https://www.e-classical.com.tw/index.html)
+* [HitFM](https://www.hitoradio.com/newweb/onair_n_ajax.php)
 
 # Investment
 
