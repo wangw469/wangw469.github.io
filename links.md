@@ -7,6 +7,7 @@ date: 2024-01-02
 
 * [hacker news(gopher version)](gopher://hngopher.com)
 * [openbsd](https://www.openbsd.org)
+* [floodgap gopher](gopher://gopher.floodgap.com)
 
 # Side projects (from mastodon)
 
