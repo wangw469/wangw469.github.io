@@ -95,7 +95,8 @@ date: 2024-01-02
 # Radio
 
 * [央广网](http://www.cnr.cn/gbzb/)
-    * HitFM 国际流行音乐
+    * HitFM 国际流行音乐: [play](https://sk.cri.cn/887.m3u8)
+    * 中国之声： [play](https://ngcdn001.cnr.cn/live/zgzs/index.m3u8)
 * [愛樂電台](https://www.e-classical.com.tw/index.html)
 * [HitFM](https://www.hitoradio.com/newweb/onair_n_ajax.php)
 
