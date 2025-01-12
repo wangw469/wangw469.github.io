@@ -6,6 +6,9 @@ date: 2024-01-02
 # where I get new ideal from
 
 * [hacker news(gopher version)](gopher://hngopher.com)
+* Bill Gates
+    * [Website](https://www.gatesnotes.com/)
+    * [Youtube](https://www.youtube.com/@billgates)
 * [openbsd](https://www.openbsd.org)
 * [floodgap gopher](gopher://gopher.floodgap.com)
 * [neuters](https://neuters.de)
