@@ -8,6 +8,7 @@ date: 2024-01-02
 * [Wikipedia](https://www.wikipedia.org)
 * [Reddit](https://www.reddit.com)
 * [Douban](https://www.douban.com)
+* [Github](https://github.com)
 * [hacker news(gopher version)](gopher://hngopher.com)
 * Bill Gates
     * [Website](https://www.gatesnotes.com/)
