@@ -9,6 +9,7 @@ date: 2024-01-02
 * [Reddit](https://www.reddit.com)
 * [Douban](https://www.douban.com)
 * [Github](https://github.com)
+* [Hacker News](https://news.ycombinator.com)
 * [hacker news(gopher version)](gopher://hngopher.com)
 * Bill Gates
     * [Website](https://www.gatesnotes.com/)
