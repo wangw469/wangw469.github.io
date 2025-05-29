@@ -5,6 +5,9 @@ date: 2024-01-02
 
 # where I get new ideal from
 
+* [Wikipedia](https://www.wikipedia.org)
+* [Reddit](https://www.reddit.com)
+* [Douban](https://www.douban.com)
 * [hacker news(gopher version)](gopher://hngopher.com)
 * Bill Gates
     * [Website](https://www.gatesnotes.com/)
