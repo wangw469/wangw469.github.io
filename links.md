@@ -107,6 +107,8 @@ date: 2024-01-02
     * 中国之声： [play](https://ngcdn001.cnr.cn/live/zgzs/index.m3u8)
 * [愛樂電台](https://www.e-classical.com.tw/index.html)
 * [HitFM](https://www.hitoradio.com/newweb/onair_n_ajax.php)
+* [BBC](https://www.bbc.co.uk/sounds/play/live/bbc_world_service)
+* [RTHK](https://www.rthk.hk/radio/radio1)
 
 # Investment
 
