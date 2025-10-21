@@ -6,6 +6,8 @@ layout: default
 
 # discovery new music
 
+* interview:
+    * [乐队 专访](https://www.google.com/search?q=%E4%B9%90%E9%98%9F+%E4%B8%93%E8%AE%BF)
 * algorithm:
     * [Youtube Music](https://music.youtube.com/library)
 * media:
