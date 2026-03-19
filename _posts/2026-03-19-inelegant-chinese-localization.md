@@ -24,3 +24,5 @@ date: 2026-03-19
 今天，拜清廷所赐，我们拥有了远超大明的国土，这些土地上有一半在 400 毫米等降水量线以内，传统上的汉族王朝并没有长期进行有效的管理。
 
 我们做好超越朱元璋的准备了么？做剩下那一半土地精神上的主人，把那些土地上曾经发生过的一切都纳入中国历史的关怀。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3KdlJlHAAbQ?si=S-K_HnHUunAswT6j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
