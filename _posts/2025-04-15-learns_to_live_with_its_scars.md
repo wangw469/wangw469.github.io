@@ -5,4 +5,6 @@ city: Suzhou
 date: 2025-04-15
 ---
 
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/cn/album/cactus/1628728683?i=1628728896"></iframe>
+<iframe src="https://www.streetvoice.cn/music/embed/?id=626172" width="330" height="100" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe>
+
+[mv](https://music.163.com/#/mv?id=14248083)
