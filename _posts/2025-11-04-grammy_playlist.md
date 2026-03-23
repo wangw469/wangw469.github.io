@@ -5,10 +5,4 @@ city: Suzhou
 date: 2025-11-04
 ---
 
-<iframe
-        src="https://widget.qobuz.com/playlist/28904009?zone=US-en"
-        width="378"
-        height="390"
-      >
-        <p>Your browser does not support iframes.</p>
-</iframe>
+[2025 Grammy Winners: Qobuz](https://open.qobuz.com/playlist/28904009?utm_source=partner&utm_medium=widget&utm_campaign=default&utm_content=playlist&utm_term=28904009)
