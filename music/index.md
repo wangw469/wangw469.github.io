@@ -2,6 +2,15 @@
 layout: default
 ---
 
+# albumes
+
+## 田馥甄 无人知晓 乐评
+
+* [豆瓣](https://music.douban.com/subject/35177453/)
+* [SoundOfLife](https://zh.soundoflife.com/blogs/column/album-review-hebe-tien-time-will-tell)
+* [英子的沙龙](https://vocus.cc/article/60e02269fd89780001bffe50)
+* [循声入座](https://songstoryworks.com/hebeuntold/)
+
 # discovery new music
 
 * interview:
@@ -10,7 +19,6 @@ layout: default
 * algorithm:
     * [Youtube Music](https://music.youtube.com/library)
 * media:
-    * [无人知晓](https://music.douban.com/subject/35177453/)
     * [New York Times](https://www.nytimes.com/section/arts/music)
     * [南方周末](https://www.infzm.com/search?k=%E9%9F%B3%E4%B9%90)
     * [豆瓣250](https://music.douban.com/top250)
