@@ -1,0 +1,1 @@
+_posts/2020-06-24-choose-inconvenience.md

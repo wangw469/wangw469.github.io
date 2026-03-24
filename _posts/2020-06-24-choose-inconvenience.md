@@ -25,6 +25,9 @@ date: 24 June 2020
 1. [马家辉](https://www.douban.com/personage/27561241/)
 1. [许子东](https://www.douban.com/personage/27494673/)
 5. 白信 [爱发电](https://ifdian.net/a/AManforAllSeasons?tab=feed)
+    1. [书影·对照记](https://afdian.com/album/cfe4e5022d8a11f0abf352540025c377)
+    1. [黑客帝国专题](https://afdian.com/album/97b9e2965ac311ed844452540025c377)
+    1. [指环王专题](https://afdian.com/album/97d447685ac711eda89852540025c377)
 7. 陶杰
 8. Minxin Pei
 6. 丁香医生
