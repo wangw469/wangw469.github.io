@@ -7,7 +7,7 @@ date: 2024-02-20
 
 # 阅读历史
 
-* 2026/02/23: 王小波 [黄金时代](https://book.douban.com/subject/27013741/)
+* 2026/02/23: 王小波 [黄金时代](https://book.douban.com/subject/27013741/) [微信读书](https://ink.weread.qq.com/web/reader/2bd329b05dedbc2bd49b02ck65132ca01b6512bd43d90e3#outline?noScroll=1)
 
 # Publisher
 
