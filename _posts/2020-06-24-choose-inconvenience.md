@@ -24,10 +24,7 @@ date: 24 June 2020
 2. [窦文涛](https://www.douban.com/personage/27504397/)
 1. [马家辉](https://www.douban.com/personage/27561241/)
 1. [许子东](https://www.douban.com/personage/27494673/)
-5. 白信 [爱发电](https://ifdian.net/a/AManforAllSeasons?tab=feed)
-    1. [书影·对照记](https://afdian.com/album/cfe4e5022d8a11f0abf352540025c377)
-    1. [黑客帝国专题](https://afdian.com/album/97b9e2965ac311ed844452540025c377)
-    1. [指环王专题](https://afdian.com/album/97d447685ac711eda89852540025c377)
+5. 白信
 7. 陶杰
 8. Minxin Pei
 6. 丁香医生
@@ -38,7 +35,10 @@ date: 24 June 2020
 1. [百车全说](https://podcasts.apple.com/cn/podcast/%E7%99%BE%E8%BD%A6%E5%85%A8%E8%AF%B4%E4%B8%A8%E5%88%AB%E4%BA%BA%E7%A0%94%E7%A9%B6%E8%BD%A6-%E8%80%8C%E6%88%91%E7%A0%94%E7%A9%B6%E4%BD%A0/id1330872827)
 1. [梁文道](https://www.douban.com/personage/27557594/) 
     1. [八分](https://shop.vistopia.com.cn/detail?id=4z4Ew)
-3. [波米：反派影评](https://mp.weixin.qq.com/s/V6LfeY6Mki8VDyFYyfud2Q)
+3. [波米：反派影评](https://mp.weixin.qq.com/s/V6LfeY6Mki8VDyFYyfud2Q)  [爱发电](https://ifdian.net/a/AManforAllSeasons?tab=feed)
+    1. [书影·对照记](https://afdian.com/album/cfe4e5022d8a11f0abf352540025c377)
+    1. [黑客帝国专题](https://afdian.com/album/97b9e2965ac311ed844452540025c377)
+    1. [指环王专题](https://afdian.com/album/97d447685ac711eda89852540025c377)
 4. [李如一：一天世界](https://yitianshijie.net)
 
 ## up 主
