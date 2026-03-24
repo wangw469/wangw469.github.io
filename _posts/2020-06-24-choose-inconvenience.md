@@ -28,6 +28,7 @@ date: 24 June 2020
 7. 陶杰
 8. Minxin Pei
 6. 丁香医生
+1. [upee](https://upee.substack.com/)
 
 ## 播客
 
@@ -43,4 +44,4 @@ date: 24 June 2020
 1. [乐评：发达星期四](https://space.bilibili.com/56954693?spm_id_from=333.337.0.0)
 1. [TESTV官方频道](https://space.bilibili.com/11336264?spm_id_from=333.337.0.0)
 1. [陶阿狗君](https://space.bilibili.com/17364274/upload/video)
-1. [路飞文](https://www.douyin.com/user/MS4wLjABAAAA-VvU8NtE2YYgWNXM7mLmuD6FyFUuU6gzq95NS4V81qI)
+1. [路飞文](https://www.xiaohongshu.com/user/profile/592accd95e87e7383b69f3a9)
