@@ -5,9 +5,11 @@ city: Suzhou
 date: 4 Mar 2024
 ---
 
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/tr/album/%E5%9B%9E%E4%BE%86/1167464484"></iframe>
+[Apple Music](https://music.apple.com/cn/album/%E5%9B%9E%E6%9D%A5/1622578733)
 
-[回來](https://music.youtube.com/playlist?list=OLAK5uy_krfpiUfORvuCzfVCh7A_KOeGA59rZbSlg)
+[Sony 音乐](https://music.sonyselect.net/page/album.html?id=15539)
+
+[Youtube](https://music.youtube.com/playlist?list=OLAK5uy_krfpiUfORvuCzfVCh7A_KOeGA59rZbSlg)
 
 很難想像這張專輯不過是 iPhone 發佈前 8 年。
 
@@ -19,8 +21,8 @@ date: 4 Mar 2024
 1. 专辑的封面是找钥匙的 mv 中的；
 2. 不做你的爱人里面的女主角是孟广美，可以接上后面的锵锵三人行；
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XqDtqdlP5Oc?si=uQL9Ga1g2ZfDU3bd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+回来：[网易云](https://music.163.com/#/mv?id=5393749) [Youtube](https://www.youtube.com/watch?v=XqDtqdlP5Oc)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XHYxrZHraa4?si=xEdbJKCZbRqtNh9G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+找钥匙：[QQ](https://y.qq.com/n/ryqq_v2/mv/w00330iu564) [Youtube](https://www.youtube.com/watch?v=XHYxrZHraa4)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f4VZtanjgE8?si=CWQbOhjC0qO3xiG9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+不做你的爱人：[Bilibili](https://www.bilibili.com/video/BV1ADpAzxEMa/) [Youtube](https://www.youtube.com/watch?v=f4VZtanjgE8)
