@@ -19,11 +19,28 @@ date: 24 June 2020
 
 最后分享下我的pull列表：
 
-1. [梁文道：八分](https://shop.vistopia.com.cn/detail?id=4z4Ew)
-2. 窦文涛
-3. [波米：反派影评](https://mp.weixin.qq.com/s/V6LfeY6Mki8VDyFYyfud2Q)
-4. [李如一：一天世界](https://yitianshijie.net)
+## 深度内容
+
+2. [窦文涛](https://www.douban.com/personage/27504397/)
+1. [马家辉](https://www.douban.com/personage/27561241/)
+1. [许子东](https://www.douban.com/personage/27494673/)
 5. 白信
-6. 丁香医生
 7. 陶杰
 8. Minxin Pei
+6. 丁香医生
+
+## 播客
+
+1. [百车全说](https://podcasts.apple.com/cn/podcast/%E7%99%BE%E8%BD%A6%E5%85%A8%E8%AF%B4%E4%B8%A8%E5%88%AB%E4%BA%BA%E7%A0%94%E7%A9%B6%E8%BD%A6-%E8%80%8C%E6%88%91%E7%A0%94%E7%A9%B6%E4%BD%A0/id1330872827)
+1. [梁文道](https://www.douban.com/personage/27557594/) 
+    1. [八分](https://shop.vistopia.com.cn/detail?id=4z4Ew)
+3. [波米：反派影评](https://mp.weixin.qq.com/s/V6LfeY6Mki8VDyFYyfud2Q)
+4. [李如一：一天世界](https://yitianshijie.net)
+
+## up 主
+
+1. [贪玩歌姬小宁子](https://space.bilibili.com/27899754?spm_id_from=333.337.search-card.all.click)
+1. [乐评：发达星期四](https://space.bilibili.com/56954693?spm_id_from=333.337.0.0)
+1. [TESTV官方频道](https://space.bilibili.com/11336264?spm_id_from=333.337.0.0)
+1. [陶阿狗君](https://space.bilibili.com/17364274/upload/video)
+1. [路飞文](https://www.douyin.com/user/MS4wLjABAAAA-VvU8NtE2YYgWNXM7mLmuD6FyFUuU6gzq95NS4V81qI)
