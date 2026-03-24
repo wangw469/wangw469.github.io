@@ -24,11 +24,11 @@ date: 24 June 2020
 2. [窦文涛](https://www.douban.com/personage/27504397/)
 1. [马家辉](https://www.douban.com/personage/27561241/)
 1. [许子东](https://www.douban.com/personage/27494673/)
-5. 白信
+5. 白信 [爱发电](https://ifdian.net/a/AManforAllSeasons?tab=feed)
 7. 陶杰
 8. Minxin Pei
 6. 丁香医生
-1. [upee](https://upee.substack.com/)
+1. [upee](https://upee.substack.com/) [爱发电](https://afdian.com/a/upeereview)
 
 ## 播客
 
