@@ -29,6 +29,7 @@ date: 24 June 2020
 8. Minxin Pei
 6. 丁香医生
 1. [upee](https://upee.substack.com/) [爱发电](https://afdian.com/a/upeereview)
+    1. [世纪最佳 33 张三人组发行](https://mp.weixin.qq.com/s/8nRUzA5n5zo41Jzu5xikZw) [网易云](https://163cn.tv/3Km19bO)
 
 ## 播客
 
