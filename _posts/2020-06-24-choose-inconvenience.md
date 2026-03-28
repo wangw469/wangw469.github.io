@@ -43,6 +43,7 @@ date: 24 June 2020
 
 ## up 主
 
+1. [载珠之舟](https://space.bilibili.com/474399309)
 1. [贪玩歌姬小宁子](https://space.bilibili.com/27899754?spm_id_from=333.337.search-card.all.click)
 1. [乐评：发达星期四](https://space.bilibili.com/56954693?spm_id_from=333.337.0.0)
 1. [TESTV官方频道](https://space.bilibili.com/11336264?spm_id_from=333.337.0.0)
