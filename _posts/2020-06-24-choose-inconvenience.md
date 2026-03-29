@@ -47,6 +47,7 @@ date: 24 June 2020
 1. [载珠之舟](https://space.bilibili.com/474399309)
 1. [贪玩歌姬小宁子](https://space.bilibili.com/27899754?spm_id_from=333.337.search-card.all.click)
 1. [乐评：发达星期四](https://space.bilibili.com/56954693?spm_id_from=333.337.0.0)
+    * [发达满分专辑](https://space.bilibili.com/56954693/lists/2977250?type=season)
 1. [TESTV官方频道](https://space.bilibili.com/11336264?spm_id_from=333.337.0.0)
 1. [陶阿狗君](https://space.bilibili.com/17364274/upload/video)
 1. [路飞文](https://www.xiaohongshu.com/user/profile/592accd95e87e7383b69f3a9)
