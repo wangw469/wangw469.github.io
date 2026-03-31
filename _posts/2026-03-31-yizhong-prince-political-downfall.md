@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "義忠親王老千歲 懷了事"
+title: "義忠親王老千歲 壞了事"
 city: Suzhou
 date: 2026-03-31
 ---
