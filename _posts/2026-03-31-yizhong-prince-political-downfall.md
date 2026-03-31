@@ -20,3 +20,7 @@ date: 2026-03-31
 [爱情大魔咒](https://www.bilibili.com/video/BV1DcHweiEyX/)
 
 [那么骄傲](https://www.bilibili.com/video/BV1EYAJzVEjm/)
+
+[寂寞的自由](https://www.bilibili.com/video/BV1wR4y1V7u5/)
+
+[爱就爱了](https://www.bilibili.com/video/BV1yatAzKEkM)
