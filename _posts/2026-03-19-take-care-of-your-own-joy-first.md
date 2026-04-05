@@ -5,4 +5,14 @@ city: Suzhou
 date: 2026-03-19
 ---
 
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/cn/playlist/%E8%87%AA%E5%B7%B2%E8%A6%81%E5%BF%AB%E6%A8%82%E5%85%88/pl.u-xlyNeWltXxJzzD"></iframe>
+{% song artist="田馥甄" title="你快乐未必我快乐" %}
+
+{% song artist="王菲" title="你快乐所以我快乐" %}
+
+{% song artist="许茹芸" title="我就是这么快乐" %}
+
+{% song artist="李玟" title="Di Da Di" %}
+
+{% song artist="王菲" title="你喜欢不如我喜欢" %}
+
+{% song artist="王菲" title="给自己的情书" %}
