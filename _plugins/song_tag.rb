@@ -35,8 +35,8 @@ module Jekyll
         <div class="song-link">
           <span class="song-info">🎵 #{@artist} - #{@title}</span>
           <span class="song-services">
-            <a href="https://bing.com/search?q=#{query}%20site%3Amusic.163.com" target="_blank" rel="noopener" title="NetEase Cloud Music">NetEase</a>
             <a href="https://bing.com/search?q=#{query}%20site%3Amusic.apple.com%2Fcn" target="_blank" rel="noopener" title="Apple Music">Apple Music</a>
+            <a href="https://bing.com/search?q=#{query}%20site%3Amusic.163.com" target="_blank" rel="noopener" title="NetEase Cloud Music">NetEase</a>
             <a href="https://bing.com/search?q=#{query}%20site%3Abilibili.com" target="_blank" rel="noopener" title="Bilibili">bilibili</a>
             <a href="https://bing.com/search?q=#{query}%20site%3Adouban.com" target="_blank" rel="noopener" title="douban">豆瓣</a>
             <a href="https://open.spotify.com/search/#{query}" target="_blank" rel="noopener" title="Spotify">Spotify</a>
