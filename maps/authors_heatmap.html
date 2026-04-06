@@ -1,0 +1,2030 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_d195b518e9d15b6d1809e6aa0986a7f3 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+    <script src="https://cdn.jsdelivr.net/gh/python-visualization/folium@main/folium/templates/leaflet_heat.min.js"></script>
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_d195b518e9d15b6d1809e6aa0986a7f3" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_d195b518e9d15b6d1809e6aa0986a7f3 = L.map(
+                "map_d195b518e9d15b6d1809e6aa0986a7f3",
+                {
+                    center: [35.0, 110.0],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 5,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_e8db44676a57cc5293c89bb65f429e24 = L.tileLayer(
+                "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 18,
+  "maxNativeZoom": 18,
+  "noWrap": false,
+  "attribution": "\u00a9 OpenStreetMap contributors \u00a9 CARTO",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_e8db44676a57cc5293c89bb65f429e24.addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+            var heat_map_aae03f611f0b1e8ce877731637499528 = L.heatLayer(
+                [[30.0, 120.58, 1], [28.01, 109.53, 1], [39.91, 116.39, 7], [31.52, 120.37, 1], [30.75, 120.48, 1], [22.82, 108.32, 1], [30.66, 104.06, 3], [45.97, 126.6, 1], [32.19, 119.42, 1], [36.4, 118.51, 1], [31.31, 120.62, 3], [30.05, 119.96, 1], [36.37, 119.8, 1], [34.19, 116.94, 1], [24.84, 121.12, 1], [39.65, 118.13, 1], [28.45, 117.9, 1], [24.68, 121.77, 1], [30.51, 120.68, 1], [29.52, 111.59, 1], [31.66, 120.75, 2], [24.08, 120.54, 1], [24.01, 121.61, 1], [34.44, 114.5, 1], [26.9, 112.57, 1], [24.96, 118.38, 1], [32.04, 118.78, 2], [30.17, 121.26, 1], [28.77, 113.7, 1], [24.99, 121.3, 1], [36.0, 119.4, 1], [37.74, 115.67, 1], [32.79, 119.43, 1], [33.96, 118.27, 1], [25.01, 121.55, 1], [29.96, 107.14, 1], [33.87, 109.94, 1], [24.06, 120.43, 1], [24.29, 117.26, 1], [23.0, 120.21, 1], [30.69, 111.28, 1], [29.29, 121.43, 1], [25.65, 112.4, 1], [32.22, 116.22, 1], [31.23, 121.47, 3], [34.5, 114.76, 1], [32.65, 116.25, 1], [34.79, 113.37, 1], [29.49, 106.54, 1], [22.35, 114.19, 2], [23.6, 120.84, 1], [22.63, 120.37, 1], [25.03, 121.56, 1], [30.25, 120.17, 1], [30.15, 120.32, 1], [41.11, 121.12, 1], [28.0, 120.7, 1], [37.56, 113.7, 1]],
+                {
+  "minOpacity": 0.5,
+  "maxZoom": 8,
+  "radius": 25,
+  "blur": 15,
+}
+            );
+        
+    
+            heat_map_aae03f611f0b1e8ce877731637499528.addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+            var circle_marker_8542add03a6122a823edfa317785eb2c = L.circleMarker(
+                [30.0, 120.58],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_7ec18d6bff3f675534e5dee7cb4f7b6d = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_299c70894c54d740942571dd8b97b704 = $(`<div id="html_299c70894c54d740942571dd8b97b704" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 鲁迅（浙江省绍兴市）</div>`)[0];
+                popup_7ec18d6bff3f675534e5dee7cb4f7b6d.setContent(html_299c70894c54d740942571dd8b97b704);
+            
+        
+
+        circle_marker_8542add03a6122a823edfa317785eb2c.bindPopup(popup_7ec18d6bff3f675534e5dee7cb4f7b6d)
+        ;
+
+        
+    
+    
+            circle_marker_8542add03a6122a823edfa317785eb2c.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_2acc7bfef43be0f48d74594a24b0a480 = L.circleMarker(
+                [28.01, 109.53],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_ce054cb08a92df4e8d8a8bb1bf0b5d48 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_fe8c0de7940d5d0ab6b6261927dee3c0 = $(`<div id="html_fe8c0de7940d5d0ab6b6261927dee3c0" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 沈从文（湖南省湘西土家族苗族自治州凤凰县）</div>`)[0];
+                popup_ce054cb08a92df4e8d8a8bb1bf0b5d48.setContent(html_fe8c0de7940d5d0ab6b6261927dee3c0);
+            
+        
+
+        circle_marker_2acc7bfef43be0f48d74594a24b0a480.bindPopup(popup_ce054cb08a92df4e8d8a8bb1bf0b5d48)
+        ;
+
+        
+    
+    
+            circle_marker_2acc7bfef43be0f48d74594a24b0a480.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_d7650a2aed733b80ebcec441d4f67b4b = L.circleMarker(
+                [39.91, 116.39],
+                {"bubblingMouseEvents": true, "color": "hsl(0, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(0, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 20, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_2a099951b4a7dba0a669da0cc1360bed = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_a27eee7011ecbce3a41bb870a04cf988 = $(`<div id="html_a27eee7011ecbce3a41bb870a04cf988" style="width: 100.0%; height: 100.0%;"><b>7 位作家</b><br>• 老舍（北京）<br>• 杨绛（北京）<br>• 王蒙（北京）<br>• 鹿桥（北京）<br>• 张洁（北京）<br>• 王小波（北京）<br>• 吴趼人（北京）</div>`)[0];
+                popup_2a099951b4a7dba0a669da0cc1360bed.setContent(html_a27eee7011ecbce3a41bb870a04cf988);
+            
+        
+
+        circle_marker_d7650a2aed733b80ebcec441d4f67b4b.bindPopup(popup_2a099951b4a7dba0a669da0cc1360bed)
+        ;
+
+        
+    
+    
+            circle_marker_d7650a2aed733b80ebcec441d4f67b4b.bindTooltip(
+                `<div>
+                     7 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_5bb5bab6dfb66c5f557dbdcc081f31ca = L.circleMarker(
+                [31.52, 120.37],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_c7629b8b49277968929dc923b2379269 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_e9349496f0ab92e415bd00ac1b011cc7 = $(`<div id="html_e9349496f0ab92e415bd00ac1b011cc7" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 钱锺书（江苏省无锡县）</div>`)[0];
+                popup_c7629b8b49277968929dc923b2379269.setContent(html_e9349496f0ab92e415bd00ac1b011cc7);
+            
+        
+
+        circle_marker_5bb5bab6dfb66c5f557dbdcc081f31ca.bindPopup(popup_c7629b8b49277968929dc923b2379269)
+        ;
+
+        
+    
+    
+            circle_marker_5bb5bab6dfb66c5f557dbdcc081f31ca.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_82b2cfb2d407c4a028352a1b3b8de782 = L.circleMarker(
+                [30.75, 120.48],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_8031ec5699a0c6cc6143b9728f201877 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_a5c1d97d511524f71a6de9390236cc64 = $(`<div id="html_a5c1d97d511524f71a6de9390236cc64" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 茅盾（浙江省桐乡县乌镇）</div>`)[0];
+                popup_8031ec5699a0c6cc6143b9728f201877.setContent(html_a5c1d97d511524f71a6de9390236cc64);
+            
+        
+
+        circle_marker_82b2cfb2d407c4a028352a1b3b8de782.bindPopup(popup_8031ec5699a0c6cc6143b9728f201877)
+        ;
+
+        
+    
+    
+            circle_marker_82b2cfb2d407c4a028352a1b3b8de782.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_06222b705533cffb6b88dcf91562e116 = L.circleMarker(
+                [22.82, 108.32],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_60c0c84b1cd5fa594bfb835222cf1b21 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_9420c2216b7d05048f4b9ee9deba9ac1 = $(`<div id="html_9420c2216b7d05048f4b9ee9deba9ac1" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 白先勇（广西南宁）</div>`)[0];
+                popup_60c0c84b1cd5fa594bfb835222cf1b21.setContent(html_9420c2216b7d05048f4b9ee9deba9ac1);
+            
+        
+
+        circle_marker_06222b705533cffb6b88dcf91562e116.bindPopup(popup_60c0c84b1cd5fa594bfb835222cf1b21)
+        ;
+
+        
+    
+    
+            circle_marker_06222b705533cffb6b88dcf91562e116.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_401ac916288fbb8fe0606a2c4af861e2 = L.circleMarker(
+                [30.66, 104.06],
+                {"bubblingMouseEvents": true, "color": "hsl(137, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(137, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 12, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_139a34fc529b86dbea472d7fac48f162 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_548bb1205868bf52a33b66a01427d784 = $(`<div id="html_548bb1205868bf52a33b66a01427d784" style="width: 100.0%; height: 100.0%;"><b>3 位作家</b><br>• 巴金（四川省成都市）<br>• 李劼人（四川成都）<br>• 琼瑶（四川成都）</div>`)[0];
+                popup_139a34fc529b86dbea472d7fac48f162.setContent(html_548bb1205868bf52a33b66a01427d784);
+            
+        
+
+        circle_marker_401ac916288fbb8fe0606a2c4af861e2.bindPopup(popup_139a34fc529b86dbea472d7fac48f162)
+        ;
+
+        
+    
+    
+            circle_marker_401ac916288fbb8fe0606a2c4af861e2.bindTooltip(
+                `<div>
+                     3 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_945e1f3a4ccdf10a2196de8d632614f5 = L.circleMarker(
+                [45.97, 126.6],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_31b84ce915fb090eea04e22b70583662 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_a61fa07f9d828a53b8273064f7ed1981 = $(`<div id="html_a61fa07f9d828a53b8273064f7ed1981" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 萧红（黑龙江省哈尔滨市呼兰区）</div>`)[0];
+                popup_31b84ce915fb090eea04e22b70583662.setContent(html_a61fa07f9d828a53b8273064f7ed1981);
+            
+        
+
+        circle_marker_945e1f3a4ccdf10a2196de8d632614f5.bindPopup(popup_31b84ce915fb090eea04e22b70583662)
+        ;
+
+        
+    
+    
+            circle_marker_945e1f3a4ccdf10a2196de8d632614f5.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_b72ee173525812bf53e80a96bb8c29e7 = L.circleMarker(
+                [32.19, 119.42],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_cf4d94080e4b64b0b5ee3edbe1b9fe4d = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_4b1e4510bd70a7eecf90cde56663d80e = $(`<div id="html_4b1e4510bd70a7eecf90cde56663d80e" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 刘鹗（镇江市）</div>`)[0];
+                popup_cf4d94080e4b64b0b5ee3edbe1b9fe4d.setContent(html_4b1e4510bd70a7eecf90cde56663d80e);
+            
+        
+
+        circle_marker_b72ee173525812bf53e80a96bb8c29e7.bindPopup(popup_cf4d94080e4b64b0b5ee3edbe1b9fe4d)
+        ;
+
+        
+    
+    
+            circle_marker_b72ee173525812bf53e80a96bb8c29e7.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_64e2119735bb170498cd76e7416fc983 = L.circleMarker(
+                [36.4, 118.51],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_0725e251ae33280612764811e71e01ce = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_a919b338a207687bc04f36a760f8c2ca = $(`<div id="html_a919b338a207687bc04f36a760f8c2ca" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 李伯元（山东）</div>`)[0];
+                popup_0725e251ae33280612764811e71e01ce.setContent(html_a919b338a207687bc04f36a760f8c2ca);
+            
+        
+
+        circle_marker_64e2119735bb170498cd76e7416fc983.bindPopup(popup_0725e251ae33280612764811e71e01ce)
+        ;
+
+        
+    
+    
+            circle_marker_64e2119735bb170498cd76e7416fc983.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_18eb3259710d8d49158642992a49b70b = L.circleMarker(
+                [31.31, 120.62],
+                {"bubblingMouseEvents": true, "color": "hsl(137, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(137, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 12, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_7dab05ecfe7934a6cccfe61a4c8cfe37 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_da8b6811ef469994491b23a03af669dd = $(`<div id="html_da8b6811ef469994491b23a03af669dd" style="width: 100.0%; height: 100.0%;"><b>3 位作家</b><br>• 路翎（江苏苏州）<br>• 叶圣陶（江苏苏州）<br>• 苏童（江苏苏州）</div>`)[0];
+                popup_7dab05ecfe7934a6cccfe61a4c8cfe37.setContent(html_da8b6811ef469994491b23a03af669dd);
+            
+        
+
+        circle_marker_18eb3259710d8d49158642992a49b70b.bindPopup(popup_7dab05ecfe7934a6cccfe61a4c8cfe37)
+        ;
+
+        
+    
+    
+            circle_marker_18eb3259710d8d49158642992a49b70b.bindTooltip(
+                `<div>
+                     3 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_333fd3a7b87338594e6e5e69224f26bb = L.circleMarker(
+                [30.05, 119.96],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_256b8f15a05843986a2a8a6f696ba81e = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_f55f2d0af47251cd36ccb28ebeff087d = $(`<div id="html_f55f2d0af47251cd36ccb28ebeff087d" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 郁达夫（浙江富阳）</div>`)[0];
+                popup_256b8f15a05843986a2a8a6f696ba81e.setContent(html_f55f2d0af47251cd36ccb28ebeff087d);
+            
+        
+
+        circle_marker_333fd3a7b87338594e6e5e69224f26bb.bindPopup(popup_256b8f15a05843986a2a8a6f696ba81e)
+        ;
+
+        
+    
+    
+            circle_marker_333fd3a7b87338594e6e5e69224f26bb.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_e93092df8afa05b0392c837f5f65e4c4 = L.circleMarker(
+                [36.37, 119.8],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_e03408423d4610ce962b91b08bd4c45b = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_d09a64ba343c0214bd0588ffdf10fd24 = $(`<div id="html_d09a64ba343c0214bd0588ffdf10fd24" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 莫言（山东省高密市东北乡文化发展区大栏平安村）</div>`)[0];
+                popup_e03408423d4610ce962b91b08bd4c45b.setContent(html_d09a64ba343c0214bd0588ffdf10fd24);
+            
+        
+
+        circle_marker_e93092df8afa05b0392c837f5f65e4c4.bindPopup(popup_e03408423d4610ce962b91b08bd4c45b)
+        ;
+
+        
+    
+    
+            circle_marker_e93092df8afa05b0392c837f5f65e4c4.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_665c02885966e5d15280c975693f8378 = L.circleMarker(
+                [34.19, 116.94],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_cc025fe645ba4d27f473577a9dc40f75 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_590ebabd866f0ec0b3818fe12ccc5ca6 = $(`<div id="html_590ebabd866f0ec0b3818fe12ccc5ca6" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 王文兴（安徽萧县）</div>`)[0];
+                popup_cc025fe645ba4d27f473577a9dc40f75.setContent(html_590ebabd866f0ec0b3818fe12ccc5ca6);
+            
+        
+
+        circle_marker_665c02885966e5d15280c975693f8378.bindPopup(popup_cc025fe645ba4d27f473577a9dc40f75)
+        ;
+
+        
+    
+    
+            circle_marker_665c02885966e5d15280c975693f8378.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_9840be33bfb61c5fda30e177041c17c9 = L.circleMarker(
+                [24.84, 121.12],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_ef00bc4cc7c6e9af32e7fcc08f8fc88c = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_c453dad101def112dbe6e559cbc2fedc = $(`<div id="html_c453dad101def112dbe6e559cbc2fedc" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 吴浊流（台湾新竹县新埔镇）</div>`)[0];
+                popup_ef00bc4cc7c6e9af32e7fcc08f8fc88c.setContent(html_c453dad101def112dbe6e559cbc2fedc);
+            
+        
+
+        circle_marker_9840be33bfb61c5fda30e177041c17c9.bindPopup(popup_ef00bc4cc7c6e9af32e7fcc08f8fc88c)
+        ;
+
+        
+    
+    
+            circle_marker_9840be33bfb61c5fda30e177041c17c9.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_e096de7fc688dbfc81b945992383459d = L.circleMarker(
+                [39.65, 118.13],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_7b8426dd629547042f0a7f94e91f733a = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_e0a6eee89891465e44b50ef74612a026 = $(`<div id="html_e0a6eee89891465e44b50ef74612a026" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 高阳（河北省唐山市）</div>`)[0];
+                popup_7b8426dd629547042f0a7f94e91f733a.setContent(html_e0a6eee89891465e44b50ef74612a026);
+            
+        
+
+        circle_marker_e096de7fc688dbfc81b945992383459d.bindPopup(popup_7b8426dd629547042f0a7f94e91f733a)
+        ;
+
+        
+    
+    
+            circle_marker_e096de7fc688dbfc81b945992383459d.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_c7764de1591c4a290312790054cd6a01 = L.circleMarker(
+                [28.45, 117.9],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_770f071259cd44e5e3f4904582447510 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_0331c8db0c67f60a9d1c8d237d1820c4 = $(`<div id="html_0331c8db0c67f60a9d1c8d237d1820c4" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 张恨水（江西广信）</div>`)[0];
+                popup_770f071259cd44e5e3f4904582447510.setContent(html_0331c8db0c67f60a9d1c8d237d1820c4);
+            
+        
+
+        circle_marker_c7764de1591c4a290312790054cd6a01.bindPopup(popup_770f071259cd44e5e3f4904582447510)
+        ;
+
+        
+    
+    
+            circle_marker_c7764de1591c4a290312790054cd6a01.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_5e7095689420a3c5f58f1a106671572a = L.circleMarker(
+                [24.68, 121.77],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_387c014a51165b831fe6448b92759b9b = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_987e1fe7e2d203d3a6104143d0fd95e2 = $(`<div id="html_987e1fe7e2d203d3a6104143d0fd95e2" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 黄春明（台湾宜兰县罗东镇）</div>`)[0];
+                popup_387c014a51165b831fe6448b92759b9b.setContent(html_987e1fe7e2d203d3a6104143d0fd95e2);
+            
+        
+
+        circle_marker_5e7095689420a3c5f58f1a106671572a.bindPopup(popup_387c014a51165b831fe6448b92759b9b)
+        ;
+
+        
+    
+    
+            circle_marker_5e7095689420a3c5f58f1a106671572a.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_cf2b3d118c3e985910dc0bea130ac047 = L.circleMarker(
+                [30.51, 120.68],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_6a7c2fab05e46a3d4e6b741dc7fb8a23 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_09424bc96678292bb93a1c521715e14d = $(`<div id="html_09424bc96678292bb93a1c521715e14d" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 金庸（浙江省海宁市）</div>`)[0];
+                popup_6a7c2fab05e46a3d4e6b741dc7fb8a23.setContent(html_09424bc96678292bb93a1c521715e14d);
+            
+        
+
+        circle_marker_cf2b3d118c3e985910dc0bea130ac047.bindPopup(popup_6a7c2fab05e46a3d4e6b741dc7fb8a23)
+        ;
+
+        
+    
+    
+            circle_marker_cf2b3d118c3e985910dc0bea130ac047.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_d92e93fa298821c940a625f7641aeb69 = L.circleMarker(
+                [29.52, 111.59],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_8c389e5c9624379742286c1a782c882b = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_c357ed25b0ffee5569b9b17147d25b4a = $(`<div id="html_c357ed25b0ffee5569b9b17147d25b4a" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 丁玲（湖南省临澧县佘市镇高丰村）</div>`)[0];
+                popup_8c389e5c9624379742286c1a782c882b.setContent(html_c357ed25b0ffee5569b9b17147d25b4a);
+            
+        
+
+        circle_marker_d92e93fa298821c940a625f7641aeb69.bindPopup(popup_8c389e5c9624379742286c1a782c882b)
+        ;
+
+        
+    
+    
+            circle_marker_d92e93fa298821c940a625f7641aeb69.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_d58e765aeccfef2dd0ec958deb75b944 = L.circleMarker(
+                [31.66, 120.75],
+                {"bubblingMouseEvents": true, "color": "hsl(171, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(171, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_869ed5124f8783318eaae5fc1cc5c207 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_1ff22777208ded8018e30c3d89e40b49 = $(`<div id="html_1ff22777208ded8018e30c3d89e40b49" style="width: 100.0%; height: 100.0%;"><b>2 位作家</b><br>• 曾朴（江苏常熟）<br>• 徐枕亚（江苏常熟）</div>`)[0];
+                popup_869ed5124f8783318eaae5fc1cc5c207.setContent(html_1ff22777208ded8018e30c3d89e40b49);
+            
+        
+
+        circle_marker_d58e765aeccfef2dd0ec958deb75b944.bindPopup(popup_869ed5124f8783318eaae5fc1cc5c207)
+        ;
+
+        
+    
+    
+            circle_marker_d58e765aeccfef2dd0ec958deb75b944.bindTooltip(
+                `<div>
+                     2 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_57a777e849f0290fb9d63bfc0f72fe60 = L.circleMarker(
+                [24.08, 120.54],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_dcea3559f0442a5715a83efbfeb0a2a4 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_4f225c7c72dbf8ad8aebc6d54a2ed92c = $(`<div id="html_4f225c7c72dbf8ad8aebc6d54a2ed92c" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 赖和（台湾省彰化县）</div>`)[0];
+                popup_dcea3559f0442a5715a83efbfeb0a2a4.setContent(html_4f225c7c72dbf8ad8aebc6d54a2ed92c);
+            
+        
+
+        circle_marker_57a777e849f0290fb9d63bfc0f72fe60.bindPopup(popup_dcea3559f0442a5715a83efbfeb0a2a4)
+        ;
+
+        
+    
+    
+            circle_marker_57a777e849f0290fb9d63bfc0f72fe60.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_0fd53d6b2add0b6863455306a3a15ab7 = L.circleMarker(
+                [24.01, 121.61],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_a3a8027f2f384b7d4b8a7789c5228309 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_cebac0395f7cd6f13741ec6361a6b68c = $(`<div id="html_cebac0395f7cd6f13741ec6361a6b68c" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 王祯和（台湾省花莲县）</div>`)[0];
+                popup_a3a8027f2f384b7d4b8a7789c5228309.setContent(html_cebac0395f7cd6f13741ec6361a6b68c);
+            
+        
+
+        circle_marker_0fd53d6b2add0b6863455306a3a15ab7.bindPopup(popup_a3a8027f2f384b7d4b8a7789c5228309)
+        ;
+
+        
+    
+    
+            circle_marker_0fd53d6b2add0b6863455306a3a15ab7.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_78f0359fe852ffeb56c2fa8c3f37c0b8 = L.circleMarker(
+                [34.44, 114.5],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_2b6ca39a9d63c4fc091f39540b7aff23 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_fb8133f985c9ad51a9c76d33229d4902 = $(`<div id="html_fb8133f985c9ad51a9c76d33229d4902" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 柏杨（河南开封通许）</div>`)[0];
+                popup_2b6ca39a9d63c4fc091f39540b7aff23.setContent(html_fb8133f985c9ad51a9c76d33229d4902);
+            
+        
+
+        circle_marker_78f0359fe852ffeb56c2fa8c3f37c0b8.bindPopup(popup_2b6ca39a9d63c4fc091f39540b7aff23)
+        ;
+
+        
+    
+    
+            circle_marker_78f0359fe852ffeb56c2fa8c3f37c0b8.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_6b8187a946c5cbd1da2e792556905f6c = L.circleMarker(
+                [26.9, 112.57],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_f79fa9a806085991ead98321d7450ecf = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_4fc9b7c19aead258db645b34ce8dd26e = $(`<div id="html_4fc9b7c19aead258db645b34ce8dd26e" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 唐浩明（湖南省衡阳市）</div>`)[0];
+                popup_f79fa9a806085991ead98321d7450ecf.setContent(html_4fc9b7c19aead258db645b34ce8dd26e);
+            
+        
+
+        circle_marker_6b8187a946c5cbd1da2e792556905f6c.bindPopup(popup_f79fa9a806085991ead98321d7450ecf)
+        ;
+
+        
+    
+    
+            circle_marker_6b8187a946c5cbd1da2e792556905f6c.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_40f24eccc8324733486ba27c35459326 = L.circleMarker(
+                [24.96, 118.38],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_b52f492d062af4a0faec4de2f1bcf236 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_932d052a16843a3871c88ff4691195b9 = $(`<div id="html_932d052a16843a3871c88ff4691195b9" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 陈忠实（福建省南安）</div>`)[0];
+                popup_b52f492d062af4a0faec4de2f1bcf236.setContent(html_932d052a16843a3871c88ff4691195b9);
+            
+        
+
+        circle_marker_40f24eccc8324733486ba27c35459326.bindPopup(popup_b52f492d062af4a0faec4de2f1bcf236)
+        ;
+
+        
+    
+    
+            circle_marker_40f24eccc8324733486ba27c35459326.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_87db0eecb53f8afebb7ba94d21c9def5 = L.circleMarker(
+                [32.04, 118.78],
+                {"bubblingMouseEvents": true, "color": "hsl(171, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(171, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_b3ba38c0f3874970e0eae37cd188c2c6 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_29afa11b589e826d6034d330fe05991e = $(`<div id="html_29afa11b589e826d6034d330fe05991e" style="width: 100.0%; height: 100.0%;"><b>2 位作家</b><br>• 王安忆（江苏南京）<br>• 张贤亮（江苏南京）</div>`)[0];
+                popup_b3ba38c0f3874970e0eae37cd188c2c6.setContent(html_29afa11b589e826d6034d330fe05991e);
+            
+        
+
+        circle_marker_87db0eecb53f8afebb7ba94d21c9def5.bindPopup(popup_b3ba38c0f3874970e0eae37cd188c2c6)
+        ;
+
+        
+    
+    
+            circle_marker_87db0eecb53f8afebb7ba94d21c9def5.bindTooltip(
+                `<div>
+                     2 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_c20a3e83dc923822cc8857c3f0e7ad9a = L.circleMarker(
+                [30.17, 121.26],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_7912890e0657e5093807ac487d27629c = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_40a4b816075de3148dbdf779478bb665 = $(`<div id="html_40a4b816075de3148dbdf779478bb665" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 穆时英（浙江省慈溪县庄桥镇）</div>`)[0];
+                popup_7912890e0657e5093807ac487d27629c.setContent(html_40a4b816075de3148dbdf779478bb665);
+            
+        
+
+        circle_marker_c20a3e83dc923822cc8857c3f0e7ad9a.bindPopup(popup_7912890e0657e5093807ac487d27629c)
+        ;
+
+        
+    
+    
+            circle_marker_c20a3e83dc923822cc8857c3f0e7ad9a.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_c6940d5544d39d6a96dfb9dfa30f260d = L.circleMarker(
+                [28.77, 113.7],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_012d79e80abdadba1e798e0d0f0950b6 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_8851911bea66a007f65927fd84c5a098 = $(`<div id="html_8851911bea66a007f65927fd84c5a098" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 李锐（湖南平江）</div>`)[0];
+                popup_012d79e80abdadba1e798e0d0f0950b6.setContent(html_8851911bea66a007f65927fd84c5a098);
+            
+        
+
+        circle_marker_c6940d5544d39d6a96dfb9dfa30f260d.bindPopup(popup_012d79e80abdadba1e798e0d0f0950b6)
+        ;
+
+        
+    
+    
+            circle_marker_c6940d5544d39d6a96dfb9dfa30f260d.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_35f5fceb8e0c47ed43dd4f530ad47519 = L.circleMarker(
+                [24.99, 121.3],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_eb397d0cc967a0d85af7561abd48f6c6 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_7778e25530c0d41a38c409303f16e16a = $(`<div id="html_7778e25530c0d41a38c409303f16e16a" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 锺肇政（中国台湾省桃园市）</div>`)[0];
+                popup_eb397d0cc967a0d85af7561abd48f6c6.setContent(html_7778e25530c0d41a38c409303f16e16a);
+            
+        
+
+        circle_marker_35f5fceb8e0c47ed43dd4f530ad47519.bindPopup(popup_eb397d0cc967a0d85af7561abd48f6c6)
+        ;
+
+        
+    
+    
+            circle_marker_35f5fceb8e0c47ed43dd4f530ad47519.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_b67845640a7a493ff235dd3d214dd46b = L.circleMarker(
+                [36.0, 119.4],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_d6b2616cf05cdc11fa280ef99b3f0c3c = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_8eebef9b1e50b7aea8221e0857565580 = $(`<div id="html_8eebef9b1e50b7aea8221e0857565580" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 姜贵（山东诸城）</div>`)[0];
+                popup_d6b2616cf05cdc11fa280ef99b3f0c3c.setContent(html_8eebef9b1e50b7aea8221e0857565580);
+            
+        
+
+        circle_marker_b67845640a7a493ff235dd3d214dd46b.bindPopup(popup_d6b2616cf05cdc11fa280ef99b3f0c3c)
+        ;
+
+        
+    
+    
+            circle_marker_b67845640a7a493ff235dd3d214dd46b.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_4432dbd0be617353a228ada42c48f399 = L.circleMarker(
+                [37.74, 115.67],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_1764c438c15420b3f34749b4a5b39169 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_4e3f5bb11f747d539441ed4129879bf8 = $(`<div id="html_4e3f5bb11f747d539441ed4129879bf8" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 孙犁（河北省衡水市安平县孙遥城村）</div>`)[0];
+                popup_1764c438c15420b3f34749b4a5b39169.setContent(html_4e3f5bb11f747d539441ed4129879bf8);
+            
+        
+
+        circle_marker_4432dbd0be617353a228ada42c48f399.bindPopup(popup_1764c438c15420b3f34749b4a5b39169)
+        ;
+
+        
+    
+    
+            circle_marker_4432dbd0be617353a228ada42c48f399.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_823f8a6a0cce58c4532881f005df2814 = L.circleMarker(
+                [32.79, 119.43],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_82a5b4398bdc65475c5ec8dcc74da055 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_1e85b33f2ada7fe833d124fa9726f78a = $(`<div id="html_1e85b33f2ada7fe833d124fa9726f78a" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 汪曾祺（江苏省高邮市）</div>`)[0];
+                popup_82a5b4398bdc65475c5ec8dcc74da055.setContent(html_1e85b33f2ada7fe833d124fa9726f78a);
+            
+        
+
+        circle_marker_823f8a6a0cce58c4532881f005df2814.bindPopup(popup_82a5b4398bdc65475c5ec8dcc74da055)
+        ;
+
+        
+    
+    
+            circle_marker_823f8a6a0cce58c4532881f005df2814.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_c1927443d6789eae193f2fc24dbe870e = L.circleMarker(
+                [33.96, 118.27],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_2fdc2e0c8b33274ce95ebd1d49aaa657 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_78605e3e3477d71242b0313f3ee6ba96 = $(`<div id="html_78605e3e3477d71242b0313f3ee6ba96" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 朱西甯（江苏宿迁）</div>`)[0];
+                popup_2fdc2e0c8b33274ce95ebd1d49aaa657.setContent(html_78605e3e3477d71242b0313f3ee6ba96);
+            
+        
+
+        circle_marker_c1927443d6789eae193f2fc24dbe870e.bindPopup(popup_2fdc2e0c8b33274ce95ebd1d49aaa657)
+        ;
+
+        
+    
+    
+            circle_marker_c1927443d6789eae193f2fc24dbe870e.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_92e935064ce288da63b71df3e65f4963 = L.circleMarker(
+                [25.01, 121.55],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_a5dcd43d01914a7b3bbf84368a24e62b = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_765ba299d315c596a820f8b356eb19fa = $(`<div id="html_765ba299d315c596a820f8b356eb19fa" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 朱天文（台湾省台北市）</div>`)[0];
+                popup_a5dcd43d01914a7b3bbf84368a24e62b.setContent(html_765ba299d315c596a820f8b356eb19fa);
+            
+        
+
+        circle_marker_92e935064ce288da63b71df3e65f4963.bindPopup(popup_a5dcd43d01914a7b3bbf84368a24e62b)
+        ;
+
+        
+    
+    
+            circle_marker_92e935064ce288da63b71df3e65f4963.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_79c87b5bdf2d8bc972224ba719200b85 = L.circleMarker(
+                [29.96, 107.14],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_0e6ca6f8e2de6b60987319df9c7bd173 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_f3e340a1114bf16736950278fec422d7 = $(`<div id="html_f3e340a1114bf16736950278fec422d7" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 还珠楼主（重庆市长寿区）</div>`)[0];
+                popup_0e6ca6f8e2de6b60987319df9c7bd173.setContent(html_f3e340a1114bf16736950278fec422d7);
+            
+        
+
+        circle_marker_79c87b5bdf2d8bc972224ba719200b85.bindPopup(popup_0e6ca6f8e2de6b60987319df9c7bd173)
+        ;
+
+        
+    
+    
+            circle_marker_79c87b5bdf2d8bc972224ba719200b85.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_c80009943bb94d357977c89a50daffec = L.circleMarker(
+                [33.87, 109.94],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_29bdc1bfdbaa4b5a07ec52bd3253d10c = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_c4a82d074d99aacfd801cc18d8f26689 = $(`<div id="html_c4a82d074d99aacfd801cc18d8f26689" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 贾平凹（陕西省商洛市丹凤县棣花镇）</div>`)[0];
+                popup_29bdc1bfdbaa4b5a07ec52bd3253d10c.setContent(html_c4a82d074d99aacfd801cc18d8f26689);
+            
+        
+
+        circle_marker_c80009943bb94d357977c89a50daffec.bindPopup(popup_29bdc1bfdbaa4b5a07ec52bd3253d10c)
+        ;
+
+        
+    
+    
+            circle_marker_c80009943bb94d357977c89a50daffec.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_400aeae9f189b523999ef81227f1fead = L.circleMarker(
+                [24.06, 120.43],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_efc71b1bda7b81830e9e28a97f85069c = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_790547a3986ae3f23a47c22ce5dba45b = $(`<div id="html_790547a3986ae3f23a47c22ce5dba45b" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 施叔青（台湾鹿港）</div>`)[0];
+                popup_efc71b1bda7b81830e9e28a97f85069c.setContent(html_790547a3986ae3f23a47c22ce5dba45b);
+            
+        
+
+        circle_marker_400aeae9f189b523999ef81227f1fead.bindPopup(popup_efc71b1bda7b81830e9e28a97f85069c)
+        ;
+
+        
+    
+    
+            circle_marker_400aeae9f189b523999ef81227f1fead.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_30797d3d372cbc509937eb38a1086779 = L.circleMarker(
+                [24.29, 117.26],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_d729d7b5221aee5c210d4450b44acd2d = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_9ddc44be0b09ec290537fbdb8b8c2b03 = $(`<div id="html_9ddc44be0b09ec290537fbdb8b8c2b03" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 林语堂（福建漳州平和县坂仔镇）</div>`)[0];
+                popup_d729d7b5221aee5c210d4450b44acd2d.setContent(html_9ddc44be0b09ec290537fbdb8b8c2b03);
+            
+        
+
+        circle_marker_30797d3d372cbc509937eb38a1086779.bindPopup(popup_d729d7b5221aee5c210d4450b44acd2d)
+        ;
+
+        
+    
+    
+            circle_marker_30797d3d372cbc509937eb38a1086779.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_78526b52c189dadaad0c3573bb1d15ad = L.circleMarker(
+                [23.0, 120.21],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_08e8a5cf59f2173f7789472f59d484d6 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_eb47b19bf5840c35c8aacf6083dc0a1a = $(`<div id="html_eb47b19bf5840c35c8aacf6083dc0a1a" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 许地山（台湾台南）</div>`)[0];
+                popup_08e8a5cf59f2173f7789472f59d484d6.setContent(html_eb47b19bf5840c35c8aacf6083dc0a1a);
+            
+        
+
+        circle_marker_78526b52c189dadaad0c3573bb1d15ad.bindPopup(popup_08e8a5cf59f2173f7789472f59d484d6)
+        ;
+
+        
+    
+    
+            circle_marker_78526b52c189dadaad0c3573bb1d15ad.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_590f82a8514e6bdc4471e20d5e2ffe30 = L.circleMarker(
+                [30.69, 111.28],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_792f9a92e3cc7d45ad4170e4e2e66946 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_e521639a395ae957b113373bee72ceb0 = $(`<div id="html_e521639a395ae957b113373bee72ceb0" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 聂华苓（湖北宜昌）</div>`)[0];
+                popup_792f9a92e3cc7d45ad4170e4e2e66946.setContent(html_e521639a395ae957b113373bee72ceb0);
+            
+        
+
+        circle_marker_590f82a8514e6bdc4471e20d5e2ffe30.bindPopup(popup_792f9a92e3cc7d45ad4170e4e2e66946)
+        ;
+
+        
+    
+    
+            circle_marker_590f82a8514e6bdc4471e20d5e2ffe30.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_abfd43cc126733af72d75b11b49f2fb1 = L.circleMarker(
+                [29.29, 121.43],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_774dc244ab7c14b52597f0bae808b491 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_2ad56ff7a81c21cafbf6eaf0c652fcde = $(`<div id="html_2ad56ff7a81c21cafbf6eaf0c652fcde" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 柔石（浙江宁海）</div>`)[0];
+                popup_774dc244ab7c14b52597f0bae808b491.setContent(html_2ad56ff7a81c21cafbf6eaf0c652fcde);
+            
+        
+
+        circle_marker_abfd43cc126733af72d75b11b49f2fb1.bindPopup(popup_774dc244ab7c14b52597f0bae808b491)
+        ;
+
+        
+    
+    
+            circle_marker_abfd43cc126733af72d75b11b49f2fb1.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_d9dfe2b229fa669a3b26b3a53d5389ec = L.circleMarker(
+                [25.65, 112.4],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_78102921155638642459691edaac6981 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_e8f19f7df2325def03255dcd2d146353 = $(`<div id="html_e8f19f7df2325def03255dcd2d146353" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 古华（湖南嘉禾县石桥镇二象村）</div>`)[0];
+                popup_78102921155638642459691edaac6981.setContent(html_e8f19f7df2325def03255dcd2d146353);
+            
+        
+
+        circle_marker_d9dfe2b229fa669a3b26b3a53d5389ec.bindPopup(popup_78102921155638642459691edaac6981)
+        ;
+
+        
+    
+    
+            circle_marker_d9dfe2b229fa669a3b26b3a53d5389ec.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_cdc0328fdfbb7cf70dc77daca65a325c = L.circleMarker(
+                [32.22, 116.22],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_0b23931963a690fdb43791286c902884 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_9c5d5b6b86c6b0645837a3faead1bab7 = $(`<div id="html_9c5d5b6b86c6b0645837a3faead1bab7" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 台静农（安徽省霍邱县）</div>`)[0];
+                popup_0b23931963a690fdb43791286c902884.setContent(html_9c5d5b6b86c6b0645837a3faead1bab7);
+            
+        
+
+        circle_marker_cdc0328fdfbb7cf70dc77daca65a325c.bindPopup(popup_0b23931963a690fdb43791286c902884)
+        ;
+
+        
+    
+    
+            circle_marker_cdc0328fdfbb7cf70dc77daca65a325c.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_c193066682ee12bb14e9e6c725ba1794 = L.circleMarker(
+                [31.23, 121.47],
+                {"bubblingMouseEvents": true, "color": "hsl(137, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(137, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 12, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_4f4720d1351daeba19d4fe9fc071612c = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_9e15f25ad2d92aa39c26eb7eb0ba1129 = $(`<div id="html_9e15f25ad2d92aa39c26eb7eb0ba1129" style="width: 100.0%; height: 100.0%;"><b>3 位作家</b><br>• 刘以鬯（上海）<br>• 亦舒（上海）<br>• 倪匡（上海）</div>`)[0];
+                popup_4f4720d1351daeba19d4fe9fc071612c.setContent(html_9e15f25ad2d92aa39c26eb7eb0ba1129);
+            
+        
+
+        circle_marker_c193066682ee12bb14e9e6c725ba1794.bindPopup(popup_4f4720d1351daeba19d4fe9fc071612c)
+        ;
+
+        
+    
+    
+            circle_marker_c193066682ee12bb14e9e6c725ba1794.bindTooltip(
+                `<div>
+                     3 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_e6a2dfbca68f14ee8ef8a5d602cda1b0 = L.circleMarker(
+                [34.5, 114.76],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_0e85f248ad1f751bcceb8f149a6a5f4b = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_15a89b5af0f86d0ded52754b0ca63333 = $(`<div id="html_15a89b5af0f86d0ded52754b0ca63333" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 师陀（河南杞县）</div>`)[0];
+                popup_0e85f248ad1f751bcceb8f149a6a5f4b.setContent(html_15a89b5af0f86d0ded52754b0ca63333);
+            
+        
+
+        circle_marker_e6a2dfbca68f14ee8ef8a5d602cda1b0.bindPopup(popup_0e85f248ad1f751bcceb8f149a6a5f4b)
+        ;
+
+        
+    
+    
+            circle_marker_e6a2dfbca68f14ee8ef8a5d602cda1b0.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_d7cc84131e66e00c7f072ae8a4683895 = L.circleMarker(
+                [32.65, 116.25],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_fe1b6252d05fcafc25c9c4846ca49f00 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_cecc44eb075632e6991e5bb656ca4427 = $(`<div id="html_cecc44eb075632e6991e5bb656ca4427" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 戴厚英（安徽省阜阳市颍上县）</div>`)[0];
+                popup_fe1b6252d05fcafc25c9c4846ca49f00.setContent(html_cecc44eb075632e6991e5bb656ca4427);
+            
+        
+
+        circle_marker_d7cc84131e66e00c7f072ae8a4683895.bindPopup(popup_fe1b6252d05fcafc25c9c4846ca49f00)
+        ;
+
+        
+    
+    
+            circle_marker_d7cc84131e66e00c7f072ae8a4683895.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_e86308b58ae2f026cbf8aa583792b590 = L.circleMarker(
+                [34.79, 113.37],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_7041e9f2a6e6de2be340e639bb09b465 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_7d73d6c7a13c5ae0073150c003db5c15 = $(`<div id="html_7d73d6c7a13c5ae0073150c003db5c15" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 刘恒（河南省荥阳市）</div>`)[0];
+                popup_7041e9f2a6e6de2be340e639bb09b465.setContent(html_7d73d6c7a13c5ae0073150c003db5c15);
+            
+        
+
+        circle_marker_e86308b58ae2f026cbf8aa583792b590.bindPopup(popup_7041e9f2a6e6de2be340e639bb09b465)
+        ;
+
+        
+    
+    
+            circle_marker_e86308b58ae2f026cbf8aa583792b590.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_cbcbd7cca863522eb99250b2f5ef7e7a = L.circleMarker(
+                [29.49, 106.54],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_401670a40adb5d0cef18f7143cf5451e = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_693a65afa2bafc95b8b7b85cb03ac9ce = $(`<div id="html_693a65afa2bafc95b8b7b85cb03ac9ce" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 张系国（四川重庆）</div>`)[0];
+                popup_401670a40adb5d0cef18f7143cf5451e.setContent(html_693a65afa2bafc95b8b7b85cb03ac9ce);
+            
+        
+
+        circle_marker_cbcbd7cca863522eb99250b2f5ef7e7a.bindPopup(popup_401670a40adb5d0cef18f7143cf5451e)
+        ;
+
+        
+    
+    
+            circle_marker_cbcbd7cca863522eb99250b2f5ef7e7a.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_5cbe0cf3238f8511a1f72c004ab3d1fc = L.circleMarker(
+                [22.35, 114.19],
+                {"bubblingMouseEvents": true, "color": "hsl(171, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(171, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_c2fee135619a88a75f07978f62dd917a = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_b4fe01538779ef3acb94616df55bc8fd = $(`<div id="html_b4fe01538779ef3acb94616df55bc8fd" style="width: 100.0%; height: 100.0%;"><b>2 位作家</b><br>• 李碧华（中国香港）<br>• 古龙（香港）</div>`)[0];
+                popup_c2fee135619a88a75f07978f62dd917a.setContent(html_b4fe01538779ef3acb94616df55bc8fd);
+            
+        
+
+        circle_marker_5cbe0cf3238f8511a1f72c004ab3d1fc.bindPopup(popup_c2fee135619a88a75f07978f62dd917a)
+        ;
+
+        
+    
+    
+            circle_marker_5cbe0cf3238f8511a1f72c004ab3d1fc.bindTooltip(
+                `<div>
+                     2 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_5057b1325eb9be1f24af4afcbf9ab879 = L.circleMarker(
+                [23.6, 120.84],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_2c9dd3db93ccf4e98c4e61557b964764 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_424cd29f8c4d45d6ecf780f1c2092ce4 = $(`<div id="html_424cd29f8c4d45d6ecf780f1c2092ce4" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 苏伟贞（台湾）</div>`)[0];
+                popup_2c9dd3db93ccf4e98c4e61557b964764.setContent(html_424cd29f8c4d45d6ecf780f1c2092ce4);
+            
+        
+
+        circle_marker_5057b1325eb9be1f24af4afcbf9ab879.bindPopup(popup_2c9dd3db93ccf4e98c4e61557b964764)
+        ;
+
+        
+    
+    
+            circle_marker_5057b1325eb9be1f24af4afcbf9ab879.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_483952aa0ae3e6557799d48f35e95290 = L.circleMarker(
+                [22.63, 120.37],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_35919fa5c248e2ef5d8daad36a77e616 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_31cf5c540e335f8555dff7b6778f46ee = $(`<div id="html_31cf5c540e335f8555dff7b6778f46ee" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 朱天心（中国台湾省高雄市凤山区）</div>`)[0];
+                popup_35919fa5c248e2ef5d8daad36a77e616.setContent(html_31cf5c540e335f8555dff7b6778f46ee);
+            
+        
+
+        circle_marker_483952aa0ae3e6557799d48f35e95290.bindPopup(popup_35919fa5c248e2ef5d8daad36a77e616)
+        ;
+
+        
+    
+    
+            circle_marker_483952aa0ae3e6557799d48f35e95290.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_b031bc3d464ceba407b79ef003c4040a = L.circleMarker(
+                [25.03, 121.56],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_28ebea1db1b54025aca50e666470dbec = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_c2771603e43560820e1b00b9ad68b9fa = $(`<div id="html_c2771603e43560820e1b00b9ad68b9fa" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 张大春（中国台北眷村）</div>`)[0];
+                popup_28ebea1db1b54025aca50e666470dbec.setContent(html_c2771603e43560820e1b00b9ad68b9fa);
+            
+        
+
+        circle_marker_b031bc3d464ceba407b79ef003c4040a.bindPopup(popup_28ebea1db1b54025aca50e666470dbec)
+        ;
+
+        
+    
+    
+            circle_marker_b031bc3d464ceba407b79ef003c4040a.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_be771b5bbf6576629d74107a00fcc0a3 = L.circleMarker(
+                [30.25, 120.17],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_cc80773ef50c78f993a576c8fb01d493 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_c9fc49dec334fda2f4b2781d01837868 = $(`<div id="html_c9fc49dec334fda2f4b2781d01837868" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 施蛰存（浙江省杭州市水亭址）</div>`)[0];
+                popup_cc80773ef50c78f993a576c8fb01d493.setContent(html_c9fc49dec334fda2f4b2781d01837868);
+            
+        
+
+        circle_marker_be771b5bbf6576629d74107a00fcc0a3.bindPopup(popup_cc80773ef50c78f993a576c8fb01d493)
+        ;
+
+        
+    
+    
+            circle_marker_be771b5bbf6576629d74107a00fcc0a3.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_584ce03766d312a67849898890086a53 = L.circleMarker(
+                [30.15, 120.32],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_6dba99524ab2f45dc5493b153f624fdc = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_64a709dd474a9726f532fb9badea92eb = $(`<div id="html_64a709dd474a9726f532fb9badea92eb" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 余华（浙江省杭州市）</div>`)[0];
+                popup_6dba99524ab2f45dc5493b153f624fdc.setContent(html_64a709dd474a9726f532fb9badea92eb);
+            
+        
+
+        circle_marker_584ce03766d312a67849898890086a53.bindPopup(popup_6dba99524ab2f45dc5493b153f624fdc)
+        ;
+
+        
+    
+    
+            circle_marker_584ce03766d312a67849898890086a53.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_120a0f6a34c890ff667d481d69538050 = L.circleMarker(
+                [41.11, 121.12],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_4797f77a745e222f5b048a23cc156bb8 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_fd634103ac36dd2edd9022cca4231d6c = $(`<div id="html_fd634103ac36dd2edd9022cca4231d6c" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 马原（辽宁锦州）</div>`)[0];
+                popup_4797f77a745e222f5b048a23cc156bb8.setContent(html_fd634103ac36dd2edd9022cca4231d6c);
+            
+        
+
+        circle_marker_120a0f6a34c890ff667d481d69538050.bindPopup(popup_4797f77a745e222f5b048a23cc156bb8)
+        ;
+
+        
+    
+    
+            circle_marker_120a0f6a34c890ff667d481d69538050.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_99e18534749c10fca456e1857a4bfa5d = L.circleMarker(
+                [28.0, 120.7],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_e0c306064cd3d093fa384c75a74fc587 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_398b29c36aa38a43908bf1d963766335 = $(`<div id="html_398b29c36aa38a43908bf1d963766335" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 林斤澜（浙江温州）</div>`)[0];
+                popup_e0c306064cd3d093fa384c75a74fc587.setContent(html_398b29c36aa38a43908bf1d963766335);
+            
+        
+
+        circle_marker_99e18534749c10fca456e1857a4bfa5d.bindPopup(popup_e0c306064cd3d093fa384c75a74fc587)
+        ;
+
+        
+    
+    
+            circle_marker_99e18534749c10fca456e1857a4bfa5d.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_7596f48538708d8f5b3428816aa898b2 = L.circleMarker(
+                [37.56, 113.7],
+                {"bubblingMouseEvents": true, "color": "hsl(205, 85%, 50%)", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "hsl(205, 85%, 50%)", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_d195b518e9d15b6d1809e6aa0986a7f3);
+        
+    
+        var popup_ffdf482388783a75e145c474f17bb91c = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_797821205a5e8d7292048c32fb93fe02 = $(`<div id="html_797821205a5e8d7292048c32fb93fe02" style="width: 100.0%; height: 100.0%;"><b>1 位作家</b><br>• 二月河（山西省昔阳县）</div>`)[0];
+                popup_ffdf482388783a75e145c474f17bb91c.setContent(html_797821205a5e8d7292048c32fb93fe02);
+            
+        
+
+        circle_marker_7596f48538708d8f5b3428816aa898b2.bindPopup(popup_ffdf482388783a75e145c474f17bb91c)
+        ;
+
+        
+    
+    
+            circle_marker_7596f48538708d8f5b3428816aa898b2.bindTooltip(
+                `<div>
+                     1 位作家
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+</script>
+</html>
