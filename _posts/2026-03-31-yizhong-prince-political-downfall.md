@@ -15,7 +15,7 @@ date: 2026-03-31
 
 [开往春天的地铁](https://www.bilibili.com/video/BV1Pz4y197op/)
 
-[独自去偷欢](https://www.bilibili.com/video/BV1wPQzByE1J)
+{% song artist="刘德华" title="独自去偷欢" %}
 
 [爱情大魔咒](https://www.bilibili.com/video/BV1DcHweiEyX/)
 
