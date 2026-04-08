@@ -26,3 +26,5 @@ date: 2026-03-31
 [爱就爱了](https://www.bilibili.com/video/BV1yatAzKEkM)
 
 [暗涌](https://www.bilibili.com/video/BV13NrQBKEdy/)
+
+{% song artist="谢雨欣" title="天仙子" %}
