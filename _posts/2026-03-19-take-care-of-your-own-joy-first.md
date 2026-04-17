@@ -11,6 +11,8 @@ date: 2026-03-19
 
 {% song artist="许茹芸" title="我就是这么快乐" %}
 
+{% song artist="许茹芸" title="头发" %}
+
 {% song artist="李玟" title="Di Da Di" %}
 
 {% song artist="王菲" title="你喜欢不如我喜欢" %}
