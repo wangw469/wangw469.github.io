@@ -19,3 +19,4 @@ date: 2026-03-23
 
 [一个像夏天，一个像秋天](https://y.music.163.com/m/mv?id=14529145)
 
+[Using the internet like its 1999](https://joshblais.com/blog/using-the-internet-like-its-1999/)
