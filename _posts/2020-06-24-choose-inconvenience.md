@@ -31,6 +31,10 @@ date: 24 June 2020
 1. [upee](https://upee.substack.com/) [爱发电](https://afdian.com/a/upeereview)
     1. [世纪最佳 33 张三人组发行](https://mp.weixin.qq.com/s/8nRUzA5n5zo41Jzu5xikZw) [网易云](https://163cn.tv/3Km19bO)
 
+## Tech
+
+1. Mitchell Hashimoto: [blog](https://mitchellh.com/writing) [github](https://github.com/mitchellh) [twitter](https://x.com/mitchellh) [youtube](https://www.youtube.com/user/Mitchellh3)
+
 ## 播客
 
 1. [百车全说](https://podcasts.apple.com/cn/podcast/%E7%99%BE%E8%BD%A6%E5%85%A8%E8%AF%B4%E4%B8%A8%E5%88%AB%E4%BA%BA%E7%A0%94%E7%A9%B6%E8%BD%A6-%E8%80%8C%E6%88%91%E7%A0%94%E7%A9%B6%E4%BD%A0/id1330872827)
