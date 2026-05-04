@@ -5,7 +5,7 @@ city: Suzhou
 date: 2026-05-04
 ---
 
-思念一种 bean ，也是一种 jeans ，人同此心。
+思念一种 bean ，一种叫红豆的 bean 。也是一种 jeans ，那条崭新的 jeans 。人同此心。
 
 > [I miss newjeans 🥲 ](https://www.youtube.com/watch?v=Dxca41EhMb8&lc=UgznOFLHUsVSwiAe1_14AaABAg0)
 
