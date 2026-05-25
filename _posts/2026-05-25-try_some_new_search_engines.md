@@ -5,7 +5,7 @@ city: Suzhou
 date: 2026-05-25
 ---
 
-[Six search engines worth trying now that Google isn’t really Google anymore](Six search engines worth trying now that Google isn’t really Google anymore)
+[Six search engines worth trying now that Google isn’t really Google anymore](https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/)
 
 AI 时代，Web 实际上变得更加重要，因为没有丰富的数据，再强大的 AI 模型也是巧妇难为无米之炊。
 
