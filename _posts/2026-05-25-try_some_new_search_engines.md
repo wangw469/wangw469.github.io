@@ -18,4 +18,5 @@ But I'm not the only one:
 * [Another Periodic Suggestion to Try, Just Try, Switching to Kagi for Search](https://daringfireball.net/2025/04/try_switching_to_kagi)
 * [The future of search isn’t Google — and it’s $10 a month](https://www.theverge.com/web/631636/kagi-review-best-search-engine)
 * [Enough is enough—I dumped Google’s worsening search for Kagi](https://arstechnica.com/gadgets/2025/08/enough-is-enough-i-dumped-googles-worsening-search-for-kagi/)
+* [一把试探无解之锁的「钥匙」：评 Kagi 搜索](https://sspai.com/post/84160)
 
